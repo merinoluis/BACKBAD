@@ -1,0 +1,3176 @@
+
+
+   Error 
+
+  Class "Aws\Sqs\SqsClient" not found
+
+  at /home/cmartinez/Projects/erp/back/vendor/laravel/framework/src/Illuminate/Queue/Connectors/SqsConnector.php:26
+   Error 
+     22▕             $config['credentials'] = Arr::only($config, ['key', 'secret', 'token']);
+     23▕         }
+     24▕ 
+     25▕         return new SqsQueue(
+  ➜  26▕             new SqsClient(
+     27▕                 Arr::except($config, ['token'])
+     28▕             ),
+     29▕             $config['queue'],
+     30▕             $config['prefix'] ?? '',
+
+
+  Class "Aws\Sqs\SqsClient" not found
+
+  at /home/cmartinez/Projects/erp/back/vendor/laravel/framework/src/Illuminate/Queue/Connectors/SqsConnector.php:26
+   Error 
+     22▕             $config['credentials'] = Arr::only($config, ['key', 'secret', 'token']);
+     23▕         }
+     24▕ 
+     25▕         return new SqsQueue(
+  ➜  26▕             new SqsClient(
+     27▕                 Arr::except($config, ['token'])
+     28▕             ),
+     29▕             $config['queue'],
+     30▕             $config['prefix'] ?? '',
+
+  Class "Aws\Sqs\SqsClient" not found
+
+  at /home/cmartinez/Projects/erp/back/vendor/laravel/framework/src/Illuminate/Queue/Connectors/SqsConnector.php:26
+     22▕             $config['credentials'] = Arr::only($config, ['key', 'secret', 'token']);
+     23▕         }
+     24▕ 
+     25▕         return new SqsQueue(
+  ➜  26▕             new SqsClient(
+     27▕                 Arr::except($config, ['token'])
+     28▕             ),
+     29▕             $config['queue'],
+     30▕             $config['prefix'] ?? '',
+
+   Error 
+
+   Error 
+
+  Class "Aws\Sqs\SqsClient" not found
+
+  at /home/cmartinez/Projects/erp/back/vendor/laravel/framework/src/Illuminate/Queue/Connectors/SqsConnector.php:26
+
+  Class "Aws\Sqs\SqsClient" not found
+     22▕             $config['credentials'] = Arr::only($config, ['key', 'secret', 'token']);
+     23▕         }
+     24▕ 
+     25▕         return new SqsQueue(
+  ➜  26▕             new SqsClient(
+     27▕                 Arr::except($config, ['token'])
+     28▕             ),
+     29▕             $config['queue'],
+     30▕             $config['prefix'] ?? '',
+
+  at /home/cmartinez/Projects/erp/back/vendor/laravel/framework/src/Illuminate/Queue/Connectors/SqsConnector.php:26
+     22▕             $config['credentials'] = Arr::only($config, ['key', 'secret', 'token']);
+     23▕         }
+     24▕ 
+     25▕         return new SqsQueue(
+  ➜  26▕             new SqsClient(
+     27▕                 Arr::except($config, ['token'])
+     28▕             ),
+     29▕             $config['queue'],
+     30▕             $config['prefix'] ?? '',
+
+   Error 
+
+  Class "Aws\Sqs\SqsClient" not found
+
+  at /home/cmartinez/Projects/erp/back/vendor/laravel/framework/src/Illuminate/Queue/Connectors/SqsConnector.php:26
+     22▕             $config['credentials'] = Arr::only($config, ['key', 'secret', 'token']);
+     23▕         }
+     24▕ 
+     25▕         return new SqsQueue(
+  ➜  26▕             new SqsClient(
+     27▕                 Arr::except($config, ['token'])
+     28▕             ),
+     29▕             $config['queue'],
+     30▕             $config['prefix'] ?? '',
+
+   Error 
+
+  Class "Aws\Sqs\SqsClient" not found
+
+  at /home/cmartinez/Projects/erp/back/vendor/laravel/framework/src/Illuminate/Queue/Connectors/SqsConnector.php:26
+     22▕             $config['credentials'] = Arr::only($config, ['key', 'secret', 'token']);
+     23▕         }
+     24▕ 
+     25▕         return new SqsQueue(
+  ➜  26▕             new SqsClient(
+     27▕                 Arr::except($config, ['token'])
+     28▕             ),
+     29▕             $config['queue'],
+     30▕             $config['prefix'] ?? '',
+
+   Error 
+
+  Class "Aws\Sqs\SqsClient" not found
+
+  at /home/cmartinez/Projects/erp/back/vendor/laravel/framework/src/Illuminate/Queue/Connectors/SqsConnector.php:26
+     22▕             $config['credentials'] = Arr::only($config, ['key', 'secret', 'token']);
+     23▕         }
+     24▕ 
+     25▕         return new SqsQueue(
+  ➜  26▕             new SqsClient(
+     27▕                 Arr::except($config, ['token'])
+     28▕             ),
+     29▕             $config['queue'],
+     30▕             $config['prefix'] ?? '',
+
+      [2m+17 vendor frames [22m
+
+
+      [2m+17 vendor frames [22m
+
+  18  /home/cmartinez/Projects/erp/back/artisan:35
+      Illuminate\Foundation\Console\Kernel::handle()
+
+
+  18  /home/cmartinez/Projects/erp/back/artisan:35
+      Illuminate\Foundation\Console\Kernel::handle()
+
+      [2m+17 vendor frames [22m
+
+  18  /home/cmartinez/Projects/erp/back/artisan:35
+      Illuminate\Foundation\Console\Kernel::handle()
+
+
+      [2m+17 vendor frames [22m
+
+  18  /home/cmartinez/Projects/erp/back/artisan:35
+      Illuminate\Foundation\Console\Kernel::handle()
+
+
+      [2m+17 vendor frames [22m
+
+  18  /home/cmartinez/Projects/erp/back/artisan:35
+      Illuminate\Foundation\Console\Kernel::handle()
+
+
+      [2m+17 vendor frames [22m
+
+  18  /home/cmartinez/Projects/erp/back/artisan:35
+      Illuminate\Foundation\Console\Kernel::handle()
+
+
+      [2m+17 vendor frames [22m
+
+  18  /home/cmartinez/Projects/erp/back/artisan:35
+      Illuminate\Foundation\Console\Kernel::handle()
+
+
+      [2m+17 vendor frames [22m
+
+  18  /home/cmartinez/Projects/erp/back/artisan:35
+      Illuminate\Foundation\Console\Kernel::handle()
+
+
+   Error 
+
+  Class "Aws\Sqs\SqsClient" not found
+
+  at /home/cmartinez/Projects/erp/back/vendor/laravel/framework/src/Illuminate/Queue/Connectors/SqsConnector.php:26
+     22▕             $config['credentials'] = Arr::only($config, ['key', 'secret', 'token']);
+     23▕         }
+     24▕ 
+     25▕         return new SqsQueue(
+  ➜  26▕             new SqsClient(
+     27▕                 Arr::except($config, ['token'])
+     28▕             ),
+     29▕             $config['queue'],
+     30▕             $config['prefix'] ?? '',
+
+   Error 
+
+  Class "Aws\Sqs\SqsClient" not found
+
+  at /home/cmartinez/Projects/erp/back/vendor/laravel/framework/src/Illuminate/Queue/Connectors/SqsConnector.php:26
+     22▕             $config['credentials'] = Arr::only($config, ['key', 'secret', 'token']);
+     23▕         }
+     24▕ 
+     25▕         return new SqsQueue(
+  ➜  26▕             new SqsClient(
+     27▕                 Arr::except($config, ['token'])
+     28▕             ),
+     29▕             $config['queue'],
+     30▕             $config['prefix'] ?? '',
+
+
+   Error 
+
+  Class "Aws\Sqs\SqsClient" not found
+
+  at /home/cmartinez/Projects/erp/back/vendor/laravel/framework/src/Illuminate/Queue/Connectors/SqsConnector.php:26
+     22▕             $config['credentials'] = Arr::only($config, ['key', 'secret', 'token']);
+     23▕         }
+     24▕ 
+     25▕         return new SqsQueue(
+  ➜  26▕             new SqsClient(
+     27▕                 Arr::except($config, ['token'])
+     28▕             ),
+     29▕             $config['queue'],
+     30▕             $config['prefix'] ?? '',
+   Error 
+
+  Class "Aws\Sqs\SqsClient" not found
+
+  at /home/cmartinez/Projects/erp/back/vendor/laravel/framework/src/Illuminate/Queue/Connectors/SqsConnector.php:26
+
+   Error 
+
+  Class "Aws\Sqs\SqsClient" not found
+
+  at /home/cmartinez/Projects/erp/back/vendor/laravel/framework/src/Illuminate/Queue/Connectors/SqsConnector.php:26
+     22▕             $config['credentials'] = Arr::only($config, ['key', 'secret', 'token']);
+     23▕         }
+     24▕ 
+     25▕         return new SqsQueue(
+  ➜  26▕             new SqsClient(
+     27▕                 Arr::except($config, ['token'])
+     28▕             ),
+     29▕             $config['queue'],
+     30▕             $config['prefix'] ?? '',
+     22▕             $config['credentials'] = Arr::only($config, ['key', 'secret', 'token']);
+     23▕         }
+     24▕ 
+     25▕         return new SqsQueue(
+  ➜  26▕             new SqsClient(
+     27▕                 Arr::except($config, ['token'])
+     28▕             ),
+     29▕             $config['queue'],
+     30▕             $config['prefix'] ?? '',
+
+   Error 
+
+  Class "Aws\Sqs\SqsClient" not found
+
+  at /home/cmartinez/Projects/erp/back/vendor/laravel/framework/src/Illuminate/Queue/Connectors/SqsConnector.php:26
+     22▕             $config['credentials'] = Arr::only($config, ['key', 'secret', 'token']);
+     23▕         }
+     24▕ 
+     25▕         return new SqsQueue(
+  ➜  26▕             new SqsClient(
+     27▕                 Arr::except($config, ['token'])
+     28▕             ),
+     29▕             $config['queue'],
+     30▕             $config['prefix'] ?? '',
+
+   Error 
+
+  Class "Aws\Sqs\SqsClient" not found
+
+  at /home/cmartinez/Projects/erp/back/vendor/laravel/framework/src/Illuminate/Queue/Connectors/SqsConnector.php:26
+     22▕             $config['credentials'] = Arr::only($config, ['key', 'secret', 'token']);
+     23▕         }
+     24▕ 
+     25▕         return new SqsQueue(
+  ➜  26▕             new SqsClient(
+     27▕                 Arr::except($config, ['token'])
+     28▕             ),
+     29▕             $config['queue'],
+     30▕             $config['prefix'] ?? '',
+
+   Error 
+
+  Class "Aws\Sqs\SqsClient" not found
+
+  at /home/cmartinez/Projects/erp/back/vendor/laravel/framework/src/Illuminate/Queue/Connectors/SqsConnector.php:26
+     22▕             $config['credentials'] = Arr::only($config, ['key', 'secret', 'token']);
+     23▕         }
+     24▕ 
+     25▕         return new SqsQueue(
+  ➜  26▕             new SqsClient(
+     27▕                 Arr::except($config, ['token'])
+     28▕             ),
+     29▕             $config['queue'],
+     30▕             $config['prefix'] ?? '',
+
+      [2m+17 vendor frames [22m
+
+  18  /home/cmartinez/Projects/erp/back/artisan:35
+      Illuminate\Foundation\Console\Kernel::handle()
+
+
+
+      [2m+17 vendor frames [22m
+
+  18  /home/cmartinez/Projects/erp/back/artisan:35
+      Illuminate\Foundation\Console\Kernel::handle()
+
+      [2m+17 vendor frames [22m
+
+  18  /home/cmartinez/Projects/erp/back/artisan:35
+      Illuminate\Foundation\Console\Kernel::handle()
+
+
+      [2m+17 vendor frames [22m
+
+  18  /home/cmartinez/Projects/erp/back/artisan:35
+      Illuminate\Foundation\Console\Kernel::handle()
+
+
+      [2m+17 vendor frames [22m
+
+  18  /home/cmartinez/Projects/erp/back/artisan:35
+      Illuminate\Foundation\Console\Kernel::handle()
+
+
+      [2m+17 vendor frames [22m
+
+  18  /home/cmartinez/Projects/erp/back/artisan:35
+      Illuminate\Foundation\Console\Kernel::handle()
+
+
+      [2m+17 vendor frames [22m
+
+  18  /home/cmartinez/Projects/erp/back/artisan:35
+      Illuminate\Foundation\Console\Kernel::handle()
+
+
+      [2m+17 vendor frames [22m
+
+  18  /home/cmartinez/Projects/erp/back/artisan:35
+      Illuminate\Foundation\Console\Kernel::handle()
+
+
+   Error 
+
+  Class "Aws\Sqs\SqsClient" not found
+
+   Error 
+
+  Class "Aws\Sqs\SqsClient" not found
+
+
+  at /home/cmartinez/Projects/erp/back/vendor/laravel/framework/src/Illuminate/Queue/Connectors/SqsConnector.php:26
+  at /home/cmartinez/Projects/erp/back/vendor/laravel/framework/src/Illuminate/Queue/Connectors/SqsConnector.php:26
+     22▕             $config['credentials'] = Arr::only($config, ['key', 'secret', 'token']);
+     23▕         }
+     24▕ 
+     25▕         return new SqsQueue(
+  ➜  26▕             new SqsClient(
+     27▕                 Arr::except($config, ['token'])
+     28▕             ),
+     29▕             $config['queue'],
+     30▕             $config['prefix'] ?? '',
+     22▕             $config['credentials'] = Arr::only($config, ['key', 'secret', 'token']);
+     23▕         }
+     24▕ 
+     25▕         return new SqsQueue(
+  ➜  26▕             new SqsClient(
+     27▕                 Arr::except($config, ['token'])
+     28▕             ),
+     29▕             $config['queue'],
+     30▕             $config['prefix'] ?? '',
+
+
+   Error 
+
+
+  Class "Aws\Sqs\SqsClient" not found
+
+   Error 
+
+  Class "Aws\Sqs\SqsClient" not found
+  at /home/cmartinez/Projects/erp/back/vendor/laravel/framework/src/Illuminate/Queue/Connectors/SqsConnector.php:26
+
+  at /home/cmartinez/Projects/erp/back/vendor/laravel/framework/src/Illuminate/Queue/Connectors/SqsConnector.php:26
+     22▕             $config['credentials'] = Arr::only($config, ['key', 'secret', 'token']);
+     23▕         }
+     24▕ 
+     25▕         return new SqsQueue(
+  ➜  26▕             new SqsClient(
+     27▕                 Arr::except($config, ['token'])
+     28▕             ),
+     29▕             $config['queue'],
+     30▕             $config['prefix'] ?? '',
+     22▕             $config['credentials'] = Arr::only($config, ['key', 'secret', 'token']);
+     23▕         }
+     24▕ 
+     25▕         return new SqsQueue(
+  ➜  26▕             new SqsClient(
+     27▕                 Arr::except($config, ['token'])
+     28▕             ),
+     29▕             $config['queue'],
+     30▕             $config['prefix'] ?? '',
+   Error 
+
+  Class "Aws\Sqs\SqsClient" not found
+
+  at /home/cmartinez/Projects/erp/back/vendor/laravel/framework/src/Illuminate/Queue/Connectors/SqsConnector.php:26
+     22▕             $config['credentials'] = Arr::only($config, ['key', 'secret', 'token']);
+     23▕         }
+     24▕ 
+     25▕         return new SqsQueue(
+  ➜  26▕             new SqsClient(
+     27▕                 Arr::except($config, ['token'])
+     28▕             ),
+     29▕             $config['queue'],
+     30▕             $config['prefix'] ?? '',
+
+   Error 
+
+  Class "Aws\Sqs\SqsClient" not found
+
+  at /home/cmartinez/Projects/erp/back/vendor/laravel/framework/src/Illuminate/Queue/Connectors/SqsConnector.php:26
+     22▕             $config['credentials'] = Arr::only($config, ['key', 'secret', 'token']);
+     23▕         }
+     24▕ 
+     25▕         return new SqsQueue(
+  ➜  26▕             new SqsClient(
+     27▕                 Arr::except($config, ['token'])
+     28▕             ),
+     29▕             $config['queue'],
+     30▕             $config['prefix'] ?? '',
+
+   Error 
+
+  Class "Aws\Sqs\SqsClient" not found
+
+  at /home/cmartinez/Projects/erp/back/vendor/laravel/framework/src/Illuminate/Queue/Connectors/SqsConnector.php:26
+     22▕             $config['credentials'] = Arr::only($config, ['key', 'secret', 'token']);
+     23▕         }
+     24▕ 
+     25▕         return new SqsQueue(
+  ➜  26▕             new SqsClient(
+     27▕                 Arr::except($config, ['token'])
+     28▕             ),
+     29▕             $config['queue'],
+     30▕             $config['prefix'] ?? '',
+
+   Error 
+
+  Class "Aws\Sqs\SqsClient" not found
+
+  at /home/cmartinez/Projects/erp/back/vendor/laravel/framework/src/Illuminate/Queue/Connectors/SqsConnector.php:26
+     22▕             $config['credentials'] = Arr::only($config, ['key', 'secret', 'token']);
+     23▕         }
+     24▕ 
+     25▕         return new SqsQueue(
+  ➜  26▕             new SqsClient(
+     27▕                 Arr::except($config, ['token'])
+     28▕             ),
+     29▕             $config['queue'],
+     30▕             $config['prefix'] ?? '',
+
+      [2m+17 vendor frames [22m
+
+  18  /home/cmartinez/Projects/erp/back/artisan:35
+      Illuminate\Foundation\Console\Kernel::handle()
+
+
+      [2m+17 vendor frames [22m
+
+  18  /home/cmartinez/Projects/erp/back/artisan:35
+      Illuminate\Foundation\Console\Kernel::handle()
+
+
+      [2m+17 vendor frames [22m
+
+
+  18  /home/cmartinez/Projects/erp/back/artisan:35
+      Illuminate\Foundation\Console\Kernel::handle()
+
+      [2m+17 vendor frames [22m
+
+  18  /home/cmartinez/Projects/erp/back/artisan:35
+      Illuminate\Foundation\Console\Kernel::handle()
+
+
+      [2m+17 vendor frames [22m
+
+  18  /home/cmartinez/Projects/erp/back/artisan:35
+      Illuminate\Foundation\Console\Kernel::handle()
+
+
+      [2m+17 vendor frames [22m
+
+  18  /home/cmartinez/Projects/erp/back/artisan:35
+      Illuminate\Foundation\Console\Kernel::handle()
+
+
+      [2m+17 vendor frames [22m
+
+  18  /home/cmartinez/Projects/erp/back/artisan:35
+      Illuminate\Foundation\Console\Kernel::handle()
+
+
+      [2m+17 vendor frames [22m
+
+  18  /home/cmartinez/Projects/erp/back/artisan:35
+      Illuminate\Foundation\Console\Kernel::handle()
+
+
+   Error 
+
+  Class "Aws\Sqs\SqsClient" not found
+
+   Error 
+
+  Class "Aws\Sqs\SqsClient" not found
+
+  at /home/cmartinez/Projects/erp/back/vendor/laravel/framework/src/Illuminate/Queue/Connectors/SqsConnector.php:26
+
+     22▕             $config['credentials'] = Arr::only($config, ['key', 'secret', 'token']);
+     23▕         }
+     24▕ 
+     25▕         return new SqsQueue(
+  ➜  26▕             new SqsClient(
+     27▕                 Arr::except($config, ['token'])
+     28▕             ),
+     29▕             $config['queue'],
+     30▕             $config['prefix'] ?? '',
+  at /home/cmartinez/Projects/erp/back/vendor/laravel/framework/src/Illuminate/Queue/Connectors/SqsConnector.php:26
+     22▕             $config['credentials'] = Arr::only($config, ['key', 'secret', 'token']);
+     23▕         }
+     24▕ 
+     25▕         return new SqsQueue(
+  ➜  26▕             new SqsClient(
+     27▕                 Arr::except($config, ['token'])
+     28▕             ),
+     29▕             $config['queue'],
+     30▕             $config['prefix'] ?? '',
+
+   Error 
+
+   Error 
+
+  Class "Aws\Sqs\SqsClient" not found
+
+
+  Class "Aws\Sqs\SqsClient" not found
+
+  at /home/cmartinez/Projects/erp/back/vendor/laravel/framework/src/Illuminate/Queue/Connectors/SqsConnector.php:26
+  at /home/cmartinez/Projects/erp/back/vendor/laravel/framework/src/Illuminate/Queue/Connectors/SqsConnector.php:26
+     22▕             $config['credentials'] = Arr::only($config, ['key', 'secret', 'token']);
+     23▕         }
+     24▕ 
+     25▕         return new SqsQueue(
+  ➜  26▕             new SqsClient(
+     27▕                 Arr::except($config, ['token'])
+     28▕             ),
+     29▕             $config['queue'],
+     30▕             $config['prefix'] ?? '',
+     22▕             $config['credentials'] = Arr::only($config, ['key', 'secret', 'token']);
+     23▕         }
+     24▕ 
+     25▕         return new SqsQueue(
+  ➜  26▕             new SqsClient(
+     27▕                 Arr::except($config, ['token'])
+     28▕             ),
+     29▕             $config['queue'],
+     30▕             $config['prefix'] ?? '',
+
+   Error 
+
+
+   Error 
+
+  Class "Aws\Sqs\SqsClient" not found
+
+  Class "Aws\Sqs\SqsClient" not found
+
+  at /home/cmartinez/Projects/erp/back/vendor/laravel/framework/src/Illuminate/Queue/Connectors/SqsConnector.php:26
+     22▕             $config['credentials'] = Arr::only($config, ['key', 'secret', 'token']);
+     23▕         }
+     24▕ 
+     25▕         return new SqsQueue(
+  ➜  26▕             new SqsClient(
+     27▕                 Arr::except($config, ['token'])
+     28▕             ),
+     29▕             $config['queue'],
+     30▕             $config['prefix'] ?? '',
+  at /home/cmartinez/Projects/erp/back/vendor/laravel/framework/src/Illuminate/Queue/Connectors/SqsConnector.php:26
+
+   Error 
+
+  Class "Aws\Sqs\SqsClient" not found
+
+  at /home/cmartinez/Projects/erp/back/vendor/laravel/framework/src/Illuminate/Queue/Connectors/SqsConnector.php:26
+     22▕             $config['credentials'] = Arr::only($config, ['key', 'secret', 'token']);
+     23▕         }
+     24▕ 
+     25▕         return new SqsQueue(
+  ➜  26▕             new SqsClient(
+     27▕                 Arr::except($config, ['token'])
+     28▕             ),
+     29▕             $config['queue'],
+     30▕             $config['prefix'] ?? '',
+     22▕             $config['credentials'] = Arr::only($config, ['key', 'secret', 'token']);
+     23▕         }
+     24▕ 
+     25▕         return new SqsQueue(
+  ➜  26▕             new SqsClient(
+     27▕                 Arr::except($config, ['token'])
+     28▕             ),
+     29▕             $config['queue'],
+     30▕             $config['prefix'] ?? '',
+
+   Error 
+
+  Class "Aws\Sqs\SqsClient" not found
+
+  at /home/cmartinez/Projects/erp/back/vendor/laravel/framework/src/Illuminate/Queue/Connectors/SqsConnector.php:26
+     22▕             $config['credentials'] = Arr::only($config, ['key', 'secret', 'token']);
+     23▕         }
+     24▕ 
+     25▕         return new SqsQueue(
+  ➜  26▕             new SqsClient(
+     27▕                 Arr::except($config, ['token'])
+     28▕             ),
+     29▕             $config['queue'],
+     30▕             $config['prefix'] ?? '',
+
+      [2m+17 vendor frames [22m
+
+  18  /home/cmartinez/Projects/erp/back/artisan:35
+      Illuminate\Foundation\Console\Kernel::handle()
+
+
+      [2m+17 vendor frames [22m
+
+  18  /home/cmartinez/Projects/erp/back/artisan:35
+      Illuminate\Foundation\Console\Kernel::handle()
+
+
+      [2m+17 vendor frames [22m
+
+  18  /home/cmartinez/Projects/erp/back/artisan:35
+      Illuminate\Foundation\Console\Kernel::handle()
+
+
+      [2m+17 vendor frames [22m
+
+      [2m+17 vendor frames [22m
+
+  18  /home/cmartinez/Projects/erp/back/artisan:35
+      Illuminate\Foundation\Console\Kernel::handle()
+
+
+  18  /home/cmartinez/Projects/erp/back/artisan:35
+      Illuminate\Foundation\Console\Kernel::handle()
+
+
+      [2m+17 vendor frames [22m
+
+  18  /home/cmartinez/Projects/erp/back/artisan:35
+      Illuminate\Foundation\Console\Kernel::handle()
+
+
+      [2m+17 vendor frames [22m
+
+  18  /home/cmartinez/Projects/erp/back/artisan:35
+      Illuminate\Foundation\Console\Kernel::handle()
+
+
+      [2m+17 vendor frames [22m
+
+  18  /home/cmartinez/Projects/erp/back/artisan:35
+      Illuminate\Foundation\Console\Kernel::handle()
+
+
+   Error 
+
+  Class "Aws\Sqs\SqsClient" not found
+
+  at /home/cmartinez/Projects/erp/back/vendor/laravel/framework/src/Illuminate/Queue/Connectors/SqsConnector.php:26
+     22▕             $config['credentials'] = Arr::only($config, ['key', 'secret', 'token']);
+     23▕         }
+     24▕ 
+     25▕         return new SqsQueue(
+  ➜  26▕             new SqsClient(
+     27▕                 Arr::except($config, ['token'])
+     28▕             ),
+     29▕             $config['queue'],
+     30▕             $config['prefix'] ?? '',
+
+   Error 
+
+  Class "Aws\Sqs\SqsClient" not found
+
+  at /home/cmartinez/Projects/erp/back/vendor/laravel/framework/src/Illuminate/Queue/Connectors/SqsConnector.php:26
+     22▕             $config['credentials'] = Arr::only($config, ['key', 'secret', 'token']);
+     23▕         }
+     24▕ 
+     25▕         return new SqsQueue(
+  ➜  26▕             new SqsClient(
+     27▕                 Arr::except($config, ['token'])
+     28▕             ),
+     29▕             $config['queue'],
+     30▕             $config['prefix'] ?? '',
+
+   Error 
+
+  Class "Aws\Sqs\SqsClient" not found
+
+  at /home/cmartinez/Projects/erp/back/vendor/laravel/framework/src/Illuminate/Queue/Connectors/SqsConnector.php:26
+     22▕             $config['credentials'] = Arr::only($config, ['key', 'secret', 'token']);
+     23▕         }
+     24▕ 
+     25▕         return new SqsQueue(
+  ➜  26▕             new SqsClient(
+     27▕                 Arr::except($config, ['token'])
+     28▕             ),
+     29▕             $config['queue'],
+     30▕             $config['prefix'] ?? '',
+
+   Error 
+
+  Class "Aws\Sqs\SqsClient" not found
+
+  at /home/cmartinez/Projects/erp/back/vendor/laravel/framework/src/Illuminate/Queue/Connectors/SqsConnector.php:26
+     22▕             $config['credentials'] = Arr::only($config, ['key', 'secret', 'token']);
+     23▕         }
+     24▕ 
+     25▕         return new SqsQueue(
+  ➜  26▕             new SqsClient(
+     27▕                 Arr::except($config, ['token'])
+     28▕             ),
+     29▕             $config['queue'],
+     30▕             $config['prefix'] ?? '',
+
+   Error 
+
+  Class "Aws\Sqs\SqsClient" not found
+
+  at /home/cmartinez/Projects/erp/back/vendor/laravel/framework/src/Illuminate/Queue/Connectors/SqsConnector.php:26
+     22▕             $config['credentials'] = Arr::only($config, ['key', 'secret', 'token']);
+     23▕         }
+     24▕ 
+     25▕         return new SqsQueue(
+  ➜  26▕             new SqsClient(
+     27▕                 Arr::except($config, ['token'])
+     28▕             ),
+     29▕             $config['queue'],
+     30▕             $config['prefix'] ?? '',
+
+   Error 
+
+  Class "Aws\Sqs\SqsClient" not found
+
+  at /home/cmartinez/Projects/erp/back/vendor/laravel/framework/src/Illuminate/Queue/Connectors/SqsConnector.php:26
+     22▕             $config['credentials'] = Arr::only($config, ['key', 'secret', 'token']);
+     23▕         }
+     24▕ 
+     25▕         return new SqsQueue(
+  ➜  26▕             new SqsClient(
+     27▕                 Arr::except($config, ['token'])
+     28▕             ),
+     29▕             $config['queue'],
+     30▕             $config['prefix'] ?? '',
+
+   Error 
+
+  Class "Aws\Sqs\SqsClient" not found
+
+  at /home/cmartinez/Projects/erp/back/vendor/laravel/framework/src/Illuminate/Queue/Connectors/SqsConnector.php:26
+     22▕             $config['credentials'] = Arr::only($config, ['key', 'secret', 'token']);
+     23▕         }
+     24▕ 
+     25▕         return new SqsQueue(
+  ➜  26▕             new SqsClient(
+     27▕                 Arr::except($config, ['token'])
+     28▕             ),
+     29▕             $config['queue'],
+     30▕             $config['prefix'] ?? '',
+
+   Error 
+
+  Class "Aws\Sqs\SqsClient" not found
+
+  at /home/cmartinez/Projects/erp/back/vendor/laravel/framework/src/Illuminate/Queue/Connectors/SqsConnector.php:26
+     22▕             $config['credentials'] = Arr::only($config, ['key', 'secret', 'token']);
+     23▕         }
+     24▕ 
+     25▕         return new SqsQueue(
+  ➜  26▕             new SqsClient(
+     27▕                 Arr::except($config, ['token'])
+     28▕             ),
+     29▕             $config['queue'],
+     30▕             $config['prefix'] ?? '',
+
+      [2m+17 vendor frames [22m
+
+  18  /home/cmartinez/Projects/erp/back/artisan:35
+      Illuminate\Foundation\Console\Kernel::handle()
+
+
+      [2m+17 vendor frames [22m
+
+  18  /home/cmartinez/Projects/erp/back/artisan:35
+      Illuminate\Foundation\Console\Kernel::handle()
+
+
+      [2m+17 vendor frames [22m
+
+  18  /home/cmartinez/Projects/erp/back/artisan:35
+      Illuminate\Foundation\Console\Kernel::handle()
+
+
+      [2m+17 vendor frames [22m
+
+  18  /home/cmartinez/Projects/erp/back/artisan:35
+      Illuminate\Foundation\Console\Kernel::handle()
+
+
+      [2m+17 vendor frames [22m
+
+  18  /home/cmartinez/Projects/erp/back/artisan:35
+      Illuminate\Foundation\Console\Kernel::handle()
+
+
+      [2m+17 vendor frames [22m
+
+  18  /home/cmartinez/Projects/erp/back/artisan:35
+      Illuminate\Foundation\Console\Kernel::handle()
+
+
+      [2m+17 vendor frames [22m
+
+  18  /home/cmartinez/Projects/erp/back/artisan:35
+      Illuminate\Foundation\Console\Kernel::handle()
+
+
+      [2m+17 vendor frames [22m
+
+  18  /home/cmartinez/Projects/erp/back/artisan:35
+      Illuminate\Foundation\Console\Kernel::handle()
+
+
+   Error 
+
+  Class "Aws\Sqs\SqsClient" not found
+
+  at /home/cmartinez/Projects/erp/back/vendor/laravel/framework/src/Illuminate/Queue/Connectors/SqsConnector.php:26
+     22▕             $config['credentials'] = Arr::only($config, ['key', 'secret', 'token']);
+     23▕         }
+     24▕ 
+     25▕         return new SqsQueue(
+  ➜  26▕             new SqsClient(
+     27▕                 Arr::except($config, ['token'])
+     28▕             ),
+     29▕             $config['queue'],
+     30▕             $config['prefix'] ?? '',
+
+   Error 
+
+  Class "Aws\Sqs\SqsClient" not found
+
+   Error 
+
+  Class "Aws\Sqs\SqsClient" not found
+
+  at /home/cmartinez/Projects/erp/back/vendor/laravel/framework/src/Illuminate/Queue/Connectors/SqsConnector.php:26
+
+  at /home/cmartinez/Projects/erp/back/vendor/laravel/framework/src/Illuminate/Queue/Connectors/SqsConnector.php:26
+     22▕             $config['credentials'] = Arr::only($config, ['key', 'secret', 'token']);
+     23▕         }
+     24▕ 
+     25▕         return new SqsQueue(
+  ➜  26▕             new SqsClient(
+     27▕                 Arr::except($config, ['token'])
+     28▕             ),
+     29▕             $config['queue'],
+     30▕             $config['prefix'] ?? '',
+
+   Error 
+     22▕             $config['credentials'] = Arr::only($config, ['key', 'secret', 'token']);
+     23▕         }
+     24▕ 
+     25▕         return new SqsQueue(
+  ➜  26▕             new SqsClient(
+     27▕                 Arr::except($config, ['token'])
+     28▕             ),
+     29▕             $config['queue'],
+     30▕             $config['prefix'] ?? '',
+
+  Class "Aws\Sqs\SqsClient" not found
+
+  at /home/cmartinez/Projects/erp/back/vendor/laravel/framework/src/Illuminate/Queue/Connectors/SqsConnector.php:26
+     22▕             $config['credentials'] = Arr::only($config, ['key', 'secret', 'token']);
+     23▕         }
+     24▕ 
+     25▕         return new SqsQueue(
+  ➜  26▕             new SqsClient(
+     27▕                 Arr::except($config, ['token'])
+     28▕             ),
+     29▕             $config['queue'],
+     30▕             $config['prefix'] ?? '',
+
+   Error 
+
+  Class "Aws\Sqs\SqsClient" not found
+
+  at /home/cmartinez/Projects/erp/back/vendor/laravel/framework/src/Illuminate/Queue/Connectors/SqsConnector.php:26
+
+     22▕             $config['credentials'] = Arr::only($config, ['key', 'secret', 'token']);
+     23▕         }
+     24▕ 
+     25▕         return new SqsQueue(
+  ➜  26▕             new SqsClient(
+     27▕                 Arr::except($config, ['token'])
+     28▕             ),
+     29▕             $config['queue'],
+     30▕             $config['prefix'] ?? '',
+   Error 
+
+  Class "Aws\Sqs\SqsClient" not found
+
+  at /home/cmartinez/Projects/erp/back/vendor/laravel/framework/src/Illuminate/Queue/Connectors/SqsConnector.php:26
+     22▕             $config['credentials'] = Arr::only($config, ['key', 'secret', 'token']);
+     23▕         }
+     24▕ 
+     25▕         return new SqsQueue(
+  ➜  26▕             new SqsClient(
+     27▕                 Arr::except($config, ['token'])
+     28▕             ),
+     29▕             $config['queue'],
+     30▕             $config['prefix'] ?? '',
+
+   Error 
+
+  Class "Aws\Sqs\SqsClient" not found
+
+  at /home/cmartinez/Projects/erp/back/vendor/laravel/framework/src/Illuminate/Queue/Connectors/SqsConnector.php:26
+     22▕             $config['credentials'] = Arr::only($config, ['key', 'secret', 'token']);
+     23▕         }
+     24▕ 
+     25▕         return new SqsQueue(
+  ➜  26▕             new SqsClient(
+     27▕                 Arr::except($config, ['token'])
+     28▕             ),
+     29▕             $config['queue'],
+     30▕             $config['prefix'] ?? '',
+
+   Error 
+
+  Class "Aws\Sqs\SqsClient" not found
+
+  at /home/cmartinez/Projects/erp/back/vendor/laravel/framework/src/Illuminate/Queue/Connectors/SqsConnector.php:26
+     22▕             $config['credentials'] = Arr::only($config, ['key', 'secret', 'token']);
+     23▕         }
+     24▕ 
+     25▕         return new SqsQueue(
+  ➜  26▕             new SqsClient(
+     27▕                 Arr::except($config, ['token'])
+     28▕             ),
+     29▕             $config['queue'],
+     30▕             $config['prefix'] ?? '',
+
+
+      [2m+17 vendor frames [22m
+
+  18  /home/cmartinez/Projects/erp/back/artisan:35
+      Illuminate\Foundation\Console\Kernel::handle()
+
+      [2m+17 vendor frames [22m
+
+  18  /home/cmartinez/Projects/erp/back/artisan:35
+      Illuminate\Foundation\Console\Kernel::handle()
+
+
+      [2m+17 vendor frames [22m
+
+  18  /home/cmartinez/Projects/erp/back/artisan:35
+      Illuminate\Foundation\Console\Kernel::handle()
+
+
+      [2m+17 vendor frames [22m
+
+  18  /home/cmartinez/Projects/erp/back/artisan:35
+      Illuminate\Foundation\Console\Kernel::handle()
+
+
+      [2m+17 vendor frames [22m
+
+  18  /home/cmartinez/Projects/erp/back/artisan:35
+      Illuminate\Foundation\Console\Kernel::handle()
+
+
+
+      [2m+17 vendor frames [22m
+
+  18  /home/cmartinez/Projects/erp/back/artisan:35
+      Illuminate\Foundation\Console\Kernel::handle()
+
+      [2m+17 vendor frames [22m
+
+  18  /home/cmartinez/Projects/erp/back/artisan:35
+      Illuminate\Foundation\Console\Kernel::handle()
+
+
+      [2m+17 vendor frames [22m
+
+  18  /home/cmartinez/Projects/erp/back/artisan:35
+      Illuminate\Foundation\Console\Kernel::handle()
+
+
+   Error 
+
+  Class "Aws\Sqs\SqsClient" not found
+
+  at /home/cmartinez/Projects/erp/back/vendor/laravel/framework/src/Illuminate/Queue/Connectors/SqsConnector.php:26
+     22▕             $config['credentials'] = Arr::only($config, ['key', 'secret', 'token']);
+     23▕         }
+     24▕ 
+     25▕         return new SqsQueue(
+  ➜  26▕             new SqsClient(
+     27▕                 Arr::except($config, ['token'])
+     28▕             ),
+     29▕             $config['queue'],
+     30▕             $config['prefix'] ?? '',
+
+
+   Error 
+   Error 
+
+  Class "Aws\Sqs\SqsClient" not found
+
+
+  Class "Aws\Sqs\SqsClient" not found
+
+  at /home/cmartinez/Projects/erp/back/vendor/laravel/framework/src/Illuminate/Queue/Connectors/SqsConnector.php:26
+
+  at /home/cmartinez/Projects/erp/back/vendor/laravel/framework/src/Illuminate/Queue/Connectors/SqsConnector.php:26
+     22▕             $config['credentials'] = Arr::only($config, ['key', 'secret', 'token']);
+     23▕         }
+     24▕ 
+     25▕         return new SqsQueue(
+  ➜  26▕             new SqsClient(
+     27▕                 Arr::except($config, ['token'])
+     28▕             ),
+     29▕             $config['queue'],
+     30▕             $config['prefix'] ?? '',
+
+     22▕             $config['credentials'] = Arr::only($config, ['key', 'secret', 'token']);
+     23▕         }
+     24▕ 
+     25▕         return new SqsQueue(
+  ➜  26▕             new SqsClient(
+     27▕                 Arr::except($config, ['token'])
+     28▕             ),
+     29▕             $config['queue'],
+     30▕             $config['prefix'] ?? '',
+   Error 
+
+  Class "Aws\Sqs\SqsClient" not found
+
+  at /home/cmartinez/Projects/erp/back/vendor/laravel/framework/src/Illuminate/Queue/Connectors/SqsConnector.php:26
+     22▕             $config['credentials'] = Arr::only($config, ['key', 'secret', 'token']);
+     23▕         }
+     24▕ 
+     25▕         return new SqsQueue(
+  ➜  26▕             new SqsClient(
+     27▕                 Arr::except($config, ['token'])
+     28▕             ),
+     29▕             $config['queue'],
+     30▕             $config['prefix'] ?? '',
+   Error 
+
+  Class "Aws\Sqs\SqsClient" not found
+
+  at /home/cmartinez/Projects/erp/back/vendor/laravel/framework/src/Illuminate/Queue/Connectors/SqsConnector.php:26
+     22▕             $config['credentials'] = Arr::only($config, ['key', 'secret', 'token']);
+     23▕         }
+     24▕ 
+     25▕         return new SqsQueue(
+  ➜  26▕             new SqsClient(
+     27▕                 Arr::except($config, ['token'])
+     28▕             ),
+     29▕             $config['queue'],
+     30▕             $config['prefix'] ?? '',
+
+
+   Error 
+
+  Class "Aws\Sqs\SqsClient" not found
+
+   Error 
+
+  Class "Aws\Sqs\SqsClient" not found
+
+  at /home/cmartinez/Projects/erp/back/vendor/laravel/framework/src/Illuminate/Queue/Connectors/SqsConnector.php:26
+  at /home/cmartinez/Projects/erp/back/vendor/laravel/framework/src/Illuminate/Queue/Connectors/SqsConnector.php:26
+     22▕             $config['credentials'] = Arr::only($config, ['key', 'secret', 'token']);
+     23▕         }
+     24▕ 
+     25▕         return new SqsQueue(
+  ➜  26▕             new SqsClient(
+     27▕                 Arr::except($config, ['token'])
+     28▕             ),
+     29▕             $config['queue'],
+     30▕             $config['prefix'] ?? '',
+     22▕             $config['credentials'] = Arr::only($config, ['key', 'secret', 'token']);
+     23▕         }
+     24▕ 
+     25▕         return new SqsQueue(
+  ➜  26▕             new SqsClient(
+     27▕                 Arr::except($config, ['token'])
+     28▕             ),
+     29▕             $config['queue'],
+     30▕             $config['prefix'] ?? '',
+
+   Error 
+
+  Class "Aws\Sqs\SqsClient" not found
+
+  at /home/cmartinez/Projects/erp/back/vendor/laravel/framework/src/Illuminate/Queue/Connectors/SqsConnector.php:26
+     22▕             $config['credentials'] = Arr::only($config, ['key', 'secret', 'token']);
+     23▕         }
+     24▕ 
+     25▕         return new SqsQueue(
+  ➜  26▕             new SqsClient(
+     27▕                 Arr::except($config, ['token'])
+     28▕             ),
+     29▕             $config['queue'],
+     30▕             $config['prefix'] ?? '',
+
+      [2m+17 vendor frames [22m
+
+  18  /home/cmartinez/Projects/erp/back/artisan:35
+
+      [2m+17 vendor frames [22m
+
+  18  /home/cmartinez/Projects/erp/back/artisan:35
+      Illuminate\Foundation\Console\Kernel::handle()
+
+      Illuminate\Foundation\Console\Kernel::handle()
+
+
+
+      [2m+17 vendor frames [22m
+
+  18  /home/cmartinez/Projects/erp/back/artisan:35
+      Illuminate\Foundation\Console\Kernel::handle()
+
+      [2m+17 vendor frames [22m
+
+  18  /home/cmartinez/Projects/erp/back/artisan:35
+      Illuminate\Foundation\Console\Kernel::handle()
+
+
+      [2m+17 vendor frames [22m
+
+  18  /home/cmartinez/Projects/erp/back/artisan:35
+      Illuminate\Foundation\Console\Kernel::handle()
+
+
+      [2m+17 vendor frames [22m
+
+      [2m+17 vendor frames [22m
+
+  18  /home/cmartinez/Projects/erp/back/artisan:35
+      Illuminate\Foundation\Console\Kernel::handle()
+
+
+  18  /home/cmartinez/Projects/erp/back/artisan:35
+      Illuminate\Foundation\Console\Kernel::handle()
+
+
+      [2m+17 vendor frames [22m
+
+  18  /home/cmartinez/Projects/erp/back/artisan:35
+      Illuminate\Foundation\Console\Kernel::handle()
+
+
+
+   Error 
+
+  Class "Aws\Sqs\SqsClient" not found
+
+  at /home/cmartinez/Projects/erp/back/vendor/laravel/framework/src/Illuminate/Queue/Connectors/SqsConnector.php:26
+     22▕             $config['credentials'] = Arr::only($config, ['key', 'secret', 'token']);
+     23▕         }
+     24▕ 
+     25▕         return new SqsQueue(
+  ➜  26▕             new SqsClient(
+     27▕                 Arr::except($config, ['token'])
+     28▕             ),
+     29▕             $config['queue'],
+     30▕             $config['prefix'] ?? '',
+
+   Error 
+
+  Class "Aws\Sqs\SqsClient" not found
+
+  at /home/cmartinez/Projects/erp/back/vendor/laravel/framework/src/Illuminate/Queue/Connectors/SqsConnector.php:26
+     22▕             $config['credentials'] = Arr::only($config, ['key', 'secret', 'token']);
+     23▕         }
+     24▕ 
+     25▕         return new SqsQueue(
+  ➜  26▕             new SqsClient(
+     27▕                 Arr::except($config, ['token'])
+     28▕             ),
+     29▕             $config['queue'],
+     30▕             $config['prefix'] ?? '',
+
+   Error 
+
+  Class "Aws\Sqs\SqsClient" not found
+
+  at /home/cmartinez/Projects/erp/back/vendor/laravel/framework/src/Illuminate/Queue/Connectors/SqsConnector.php:26
+     22▕             $config['credentials'] = Arr::only($config, ['key', 'secret', 'token']);
+     23▕         }
+     24▕ 
+     25▕         return new SqsQueue(
+  ➜  26▕             new SqsClient(
+     27▕                 Arr::except($config, ['token'])
+     28▕             ),
+     29▕             $config['queue'],
+     30▕             $config['prefix'] ?? '',
+
+   Error 
+
+  Class "Aws\Sqs\SqsClient" not found
+
+  at /home/cmartinez/Projects/erp/back/vendor/laravel/framework/src/Illuminate/Queue/Connectors/SqsConnector.php:26
+     22▕             $config['credentials'] = Arr::only($config, ['key', 'secret', 'token']);
+     23▕         }
+     24▕ 
+     25▕         return new SqsQueue(
+  ➜  26▕             new SqsClient(
+     27▕                 Arr::except($config, ['token'])
+     28▕             ),
+     29▕             $config['queue'],
+     30▕             $config['prefix'] ?? '',
+
+   Error 
+
+  Class "Aws\Sqs\SqsClient" not found
+
+  at /home/cmartinez/Projects/erp/back/vendor/laravel/framework/src/Illuminate/Queue/Connectors/SqsConnector.php:26
+   Error 
+     22▕             $config['credentials'] = Arr::only($config, ['key', 'secret', 'token']);
+     23▕         }
+     24▕ 
+     25▕         return new SqsQueue(
+  ➜  26▕             new SqsClient(
+     27▕                 Arr::except($config, ['token'])
+     28▕             ),
+     29▕             $config['queue'],
+     30▕             $config['prefix'] ?? '',
+
+  Class "Aws\Sqs\SqsClient" not found
+
+  at /home/cmartinez/Projects/erp/back/vendor/laravel/framework/src/Illuminate/Queue/Connectors/SqsConnector.php:26
+
+   Error 
+
+  Class "Aws\Sqs\SqsClient" not found
+
+     22▕             $config['credentials'] = Arr::only($config, ['key', 'secret', 'token']);
+     23▕         }
+     24▕ 
+     25▕         return new SqsQueue(
+  ➜  26▕             new SqsClient(
+     27▕                 Arr::except($config, ['token'])
+     28▕             ),
+     29▕             $config['queue'],
+     30▕             $config['prefix'] ?? '',
+  at /home/cmartinez/Projects/erp/back/vendor/laravel/framework/src/Illuminate/Queue/Connectors/SqsConnector.php:26
+     22▕             $config['credentials'] = Arr::only($config, ['key', 'secret', 'token']);
+     23▕         }
+     24▕ 
+     25▕         return new SqsQueue(
+  ➜  26▕             new SqsClient(
+     27▕                 Arr::except($config, ['token'])
+     28▕             ),
+     29▕             $config['queue'],
+     30▕             $config['prefix'] ?? '',
+
+   Error 
+
+  Class "Aws\Sqs\SqsClient" not found
+
+  at /home/cmartinez/Projects/erp/back/vendor/laravel/framework/src/Illuminate/Queue/Connectors/SqsConnector.php:26
+     22▕             $config['credentials'] = Arr::only($config, ['key', 'secret', 'token']);
+     23▕         }
+     24▕ 
+     25▕         return new SqsQueue(
+  ➜  26▕             new SqsClient(
+     27▕                 Arr::except($config, ['token'])
+     28▕             ),
+     29▕             $config['queue'],
+     30▕             $config['prefix'] ?? '',
+
+      [2m+17 vendor frames [22m
+
+  18  /home/cmartinez/Projects/erp/back/artisan:35
+      Illuminate\Foundation\Console\Kernel::handle()
+
+
+      [2m+17 vendor frames [22m
+
+  18  /home/cmartinez/Projects/erp/back/artisan:35
+      Illuminate\Foundation\Console\Kernel::handle()
+
+
+      [2m+17 vendor frames [22m
+
+  18  /home/cmartinez/Projects/erp/back/artisan:35
+      Illuminate\Foundation\Console\Kernel::handle()
+
+
+      [2m+17 vendor frames [22m
+
+  18  /home/cmartinez/Projects/erp/back/artisan:35
+
+      [2m+17 vendor frames [22m
+
+  18  /home/cmartinez/Projects/erp/back/artisan:35
+      Illuminate\Foundation\Console\Kernel::handle()
+
+      Illuminate\Foundation\Console\Kernel::handle()
+
+
+      [2m+17 vendor frames [22m
+
+  18  /home/cmartinez/Projects/erp/back/artisan:35
+      Illuminate\Foundation\Console\Kernel::handle()
+
+
+      [2m+17 vendor frames [22m
+
+      [2m+17 vendor frames [22m
+
+
+  18  /home/cmartinez/Projects/erp/back/artisan:35
+  18  /home/cmartinez/Projects/erp/back/artisan:35
+      Illuminate\Foundation\Console\Kernel::handle()
+
+      Illuminate\Foundation\Console\Kernel::handle()
+
+
+
+   Error 
+
+  Class "Aws\Sqs\SqsClient" not found
+
+  at /home/cmartinez/Projects/erp/back/vendor/laravel/framework/src/Illuminate/Queue/Connectors/SqsConnector.php:26
+     22▕             $config['credentials'] = Arr::only($config, ['key', 'secret', 'token']);
+     23▕         }
+     24▕ 
+     25▕         return new SqsQueue(
+  ➜  26▕             new SqsClient(
+     27▕                 Arr::except($config, ['token'])
+     28▕             ),
+     29▕             $config['queue'],
+     30▕             $config['prefix'] ?? '',
+
+
+   Error 
+
+   Error 
+
+  Class "Aws\Sqs\SqsClient" not found
+
+  Class "Aws\Sqs\SqsClient" not found
+
+   Error 
+
+  Class "Aws\Sqs\SqsClient" not found
+
+  at /home/cmartinez/Projects/erp/back/vendor/laravel/framework/src/Illuminate/Queue/Connectors/SqsConnector.php:26
+
+  at /home/cmartinez/Projects/erp/back/vendor/laravel/framework/src/Illuminate/Queue/Connectors/SqsConnector.php:26
+  at /home/cmartinez/Projects/erp/back/vendor/laravel/framework/src/Illuminate/Queue/Connectors/SqsConnector.php:26
+     22▕             $config['credentials'] = Arr::only($config, ['key', 'secret', 'token']);
+     23▕         }
+     24▕ 
+     25▕         return new SqsQueue(
+  ➜  26▕             new SqsClient(
+     27▕                 Arr::except($config, ['token'])
+     28▕             ),
+     29▕             $config['queue'],
+     30▕             $config['prefix'] ?? '',
+     22▕             $config['credentials'] = Arr::only($config, ['key', 'secret', 'token']);
+     23▕         }
+     24▕ 
+     25▕         return new SqsQueue(
+  ➜  26▕             new SqsClient(
+     27▕                 Arr::except($config, ['token'])
+     28▕             ),
+     29▕             $config['queue'],
+     30▕             $config['prefix'] ?? '',
+   Error 
+     22▕             $config['credentials'] = Arr::only($config, ['key', 'secret', 'token']);
+     23▕         }
+     24▕ 
+     25▕         return new SqsQueue(
+  ➜  26▕             new SqsClient(
+     27▕                 Arr::except($config, ['token'])
+     28▕             ),
+     29▕             $config['queue'],
+     30▕             $config['prefix'] ?? '',
+
+  Class "Aws\Sqs\SqsClient" not found
+
+  at /home/cmartinez/Projects/erp/back/vendor/laravel/framework/src/Illuminate/Queue/Connectors/SqsConnector.php:26
+     22▕             $config['credentials'] = Arr::only($config, ['key', 'secret', 'token']);
+     23▕         }
+     24▕ 
+     25▕         return new SqsQueue(
+  ➜  26▕             new SqsClient(
+     27▕                 Arr::except($config, ['token'])
+     28▕             ),
+     29▕             $config['queue'],
+     30▕             $config['prefix'] ?? '',
+
+   Error 
+
+  Class "Aws\Sqs\SqsClient" not found
+
+  at /home/cmartinez/Projects/erp/back/vendor/laravel/framework/src/Illuminate/Queue/Connectors/SqsConnector.php:26
+     22▕             $config['credentials'] = Arr::only($config, ['key', 'secret', 'token']);
+     23▕         }
+     24▕ 
+     25▕         return new SqsQueue(
+  ➜  26▕             new SqsClient(
+     27▕                 Arr::except($config, ['token'])
+     28▕             ),
+     29▕             $config['queue'],
+     30▕             $config['prefix'] ?? '',
+
+   Error 
+
+  Class "Aws\Sqs\SqsClient" not found
+
+   Error 
+
+  Class "Aws\Sqs\SqsClient" not found
+
+
+  at /home/cmartinez/Projects/erp/back/vendor/laravel/framework/src/Illuminate/Queue/Connectors/SqsConnector.php:26
+  at /home/cmartinez/Projects/erp/back/vendor/laravel/framework/src/Illuminate/Queue/Connectors/SqsConnector.php:26
+     22▕             $config['credentials'] = Arr::only($config, ['key', 'secret', 'token']);
+     23▕         }
+     24▕ 
+     25▕         return new SqsQueue(
+  ➜  26▕             new SqsClient(
+     27▕                 Arr::except($config, ['token'])
+     28▕             ),
+     29▕             $config['queue'],
+     30▕             $config['prefix'] ?? '',
+     22▕             $config['credentials'] = Arr::only($config, ['key', 'secret', 'token']);
+     23▕         }
+     24▕ 
+     25▕         return new SqsQueue(
+  ➜  26▕             new SqsClient(
+     27▕                 Arr::except($config, ['token'])
+     28▕             ),
+     29▕             $config['queue'],
+     30▕             $config['prefix'] ?? '',
+
+      [2m+17 vendor frames [22m
+
+
+  18  /home/cmartinez/Projects/erp/back/artisan:35
+      Illuminate\Foundation\Console\Kernel::handle()
+
+      [2m+17 vendor frames [22m
+
+  18  /home/cmartinez/Projects/erp/back/artisan:35
+      Illuminate\Foundation\Console\Kernel::handle()
+
+
+      [2m+17 vendor frames [22m
+
+  18  /home/cmartinez/Projects/erp/back/artisan:35
+
+
+      [2m+17 vendor frames [22m
+
+      [2m+17 vendor frames [22m
+
+  18  /home/cmartinez/Projects/erp/back/artisan:35
+      Illuminate\Foundation\Console\Kernel::handle()
+
+  18  /home/cmartinez/Projects/erp/back/artisan:35
+      Illuminate\Foundation\Console\Kernel::handle()
+
+      Illuminate\Foundation\Console\Kernel::handle()
+
+
+      [2m+17 vendor frames [22m
+
+  18  /home/cmartinez/Projects/erp/back/artisan:35
+      Illuminate\Foundation\Console\Kernel::handle()
+
+
+      [2m+17 vendor frames [22m
+
+  18  /home/cmartinez/Projects/erp/back/artisan:35
+      Illuminate\Foundation\Console\Kernel::handle()
+
+
+      [2m+17 vendor frames [22m
+
+  18  /home/cmartinez/Projects/erp/back/artisan:35
+      Illuminate\Foundation\Console\Kernel::handle()
+
+
+
+   Error 
+
+  Class "Aws\Sqs\SqsClient" not found
+
+  at /home/cmartinez/Projects/erp/back/vendor/laravel/framework/src/Illuminate/Queue/Connectors/SqsConnector.php:26
+     22▕             $config['credentials'] = Arr::only($config, ['key', 'secret', 'token']);
+     23▕         }
+     24▕ 
+     25▕         return new SqsQueue(
+  ➜  26▕             new SqsClient(
+     27▕                 Arr::except($config, ['token'])
+     28▕             ),
+     29▕             $config['queue'],
+     30▕             $config['prefix'] ?? '',
+
+   Error 
+
+  Class "Aws\Sqs\SqsClient" not found
+
+  at /home/cmartinez/Projects/erp/back/vendor/laravel/framework/src/Illuminate/Queue/Connectors/SqsConnector.php:26
+     22▕             $config['credentials'] = Arr::only($config, ['key', 'secret', 'token']);
+     23▕         }
+     24▕ 
+     25▕         return new SqsQueue(
+  ➜  26▕             new SqsClient(
+     27▕                 Arr::except($config, ['token'])
+     28▕             ),
+     29▕             $config['queue'],
+     30▕             $config['prefix'] ?? '',
+   Error 
+
+  Class "Aws\Sqs\SqsClient" not found
+
+  at /home/cmartinez/Projects/erp/back/vendor/laravel/framework/src/Illuminate/Queue/Connectors/SqsConnector.php:26
+     22▕             $config['credentials'] = Arr::only($config, ['key', 'secret', 'token']);
+     23▕         }
+     24▕ 
+     25▕         return new SqsQueue(
+  ➜  26▕             new SqsClient(
+     27▕                 Arr::except($config, ['token'])
+     28▕             ),
+     29▕             $config['queue'],
+     30▕             $config['prefix'] ?? '',
+
+   Error 
+
+  Class "Aws\Sqs\SqsClient" not found
+
+  at /home/cmartinez/Projects/erp/back/vendor/laravel/framework/src/Illuminate/Queue/Connectors/SqsConnector.php:26
+     22▕             $config['credentials'] = Arr::only($config, ['key', 'secret', 'token']);
+     23▕         }
+     24▕ 
+     25▕         return new SqsQueue(
+  ➜  26▕             new SqsClient(
+     27▕                 Arr::except($config, ['token'])
+     28▕             ),
+     29▕             $config['queue'],
+     30▕             $config['prefix'] ?? '',
+
+
+   Error 
+
+  Class "Aws\Sqs\SqsClient" not found
+
+  at /home/cmartinez/Projects/erp/back/vendor/laravel/framework/src/Illuminate/Queue/Connectors/SqsConnector.php:26
+   Error 
+
+     22▕             $config['credentials'] = Arr::only($config, ['key', 'secret', 'token']);
+     23▕         }
+     24▕ 
+     25▕         return new SqsQueue(
+  ➜  26▕             new SqsClient(
+     27▕                 Arr::except($config, ['token'])
+     28▕             ),
+     29▕             $config['queue'],
+     30▕             $config['prefix'] ?? '',
+   Error 
+
+  Class "Aws\Sqs\SqsClient" not found
+
+  at /home/cmartinez/Projects/erp/back/vendor/laravel/framework/src/Illuminate/Queue/Connectors/SqsConnector.php:26
+
+  Class "Aws\Sqs\SqsClient" not found
+     22▕             $config['credentials'] = Arr::only($config, ['key', 'secret', 'token']);
+     23▕         }
+     24▕ 
+     25▕         return new SqsQueue(
+  ➜  26▕             new SqsClient(
+     27▕                 Arr::except($config, ['token'])
+     28▕             ),
+     29▕             $config['queue'],
+     30▕             $config['prefix'] ?? '',
+
+  at /home/cmartinez/Projects/erp/back/vendor/laravel/framework/src/Illuminate/Queue/Connectors/SqsConnector.php:26
+     22▕             $config['credentials'] = Arr::only($config, ['key', 'secret', 'token']);
+     23▕         }
+     24▕ 
+     25▕         return new SqsQueue(
+  ➜  26▕             new SqsClient(
+     27▕                 Arr::except($config, ['token'])
+     28▕             ),
+     29▕             $config['queue'],
+     30▕             $config['prefix'] ?? '',
+
+   Error 
+
+  Class "Aws\Sqs\SqsClient" not found
+
+  at /home/cmartinez/Projects/erp/back/vendor/laravel/framework/src/Illuminate/Queue/Connectors/SqsConnector.php:26
+     22▕             $config['credentials'] = Arr::only($config, ['key', 'secret', 'token']);
+     23▕         }
+     24▕ 
+     25▕         return new SqsQueue(
+  ➜  26▕             new SqsClient(
+     27▕                 Arr::except($config, ['token'])
+     28▕             ),
+     29▕             $config['queue'],
+     30▕             $config['prefix'] ?? '',
+
+      [2m+17 vendor frames [22m
+
+  18  /home/cmartinez/Projects/erp/back/artisan:35
+      Illuminate\Foundation\Console\Kernel::handle()
+
+
+
+      [2m+17 vendor frames [22m
+
+  18  /home/cmartinez/Projects/erp/back/artisan:35
+      Illuminate\Foundation\Console\Kernel::handle()
+
+      [2m+17 vendor frames [22m
+
+  18  /home/cmartinez/Projects/erp/back/artisan:35
+      Illuminate\Foundation\Console\Kernel::handle()
+
+
+      [2m+17 vendor frames [22m
+
+  18  /home/cmartinez/Projects/erp/back/artisan:35
+      Illuminate\Foundation\Console\Kernel::handle()
+
+
+      [2m+17 vendor frames [22m
+
+      [2m+17 vendor frames [22m
+
+  18  /home/cmartinez/Projects/erp/back/artisan:35
+      Illuminate\Foundation\Console\Kernel::handle()
+
+
+  18  /home/cmartinez/Projects/erp/back/artisan:35
+      Illuminate\Foundation\Console\Kernel::handle()
+
+
+      [2m+17 vendor frames [22m
+
+  18  /home/cmartinez/Projects/erp/back/artisan:35
+      Illuminate\Foundation\Console\Kernel::handle()
+
+
+      [2m+17 vendor frames [22m
+
+  18  /home/cmartinez/Projects/erp/back/artisan:35
+      Illuminate\Foundation\Console\Kernel::handle()
+
+
+   Error 
+
+  Class "Aws\Sqs\SqsClient" not found
+
+  at /home/cmartinez/Projects/erp/back/vendor/laravel/framework/src/Illuminate/Queue/Connectors/SqsConnector.php:26
+     22▕             $config['credentials'] = Arr::only($config, ['key', 'secret', 'token']);
+     23▕         }
+     24▕ 
+     25▕         return new SqsQueue(
+  ➜  26▕             new SqsClient(
+     27▕                 Arr::except($config, ['token'])
+     28▕             ),
+     29▕             $config['queue'],
+     30▕             $config['prefix'] ?? '',
+
+
+   Error 
+
+  Class "Aws\Sqs\SqsClient" not found
+   Error 
+
+  Class "Aws\Sqs\SqsClient" not found
+
+  at /home/cmartinez/Projects/erp/back/vendor/laravel/framework/src/Illuminate/Queue/Connectors/SqsConnector.php:26
+
+  at /home/cmartinez/Projects/erp/back/vendor/laravel/framework/src/Illuminate/Queue/Connectors/SqsConnector.php:26
+     22▕             $config['credentials'] = Arr::only($config, ['key', 'secret', 'token']);
+     23▕         }
+     24▕ 
+     25▕         return new SqsQueue(
+  ➜  26▕             new SqsClient(
+     27▕                 Arr::except($config, ['token'])
+     28▕             ),
+     29▕             $config['queue'],
+     30▕             $config['prefix'] ?? '',
+     22▕             $config['credentials'] = Arr::only($config, ['key', 'secret', 'token']);
+     23▕         }
+     24▕ 
+     25▕         return new SqsQueue(
+  ➜  26▕             new SqsClient(
+     27▕                 Arr::except($config, ['token'])
+     28▕             ),
+     29▕             $config['queue'],
+     30▕             $config['prefix'] ?? '',
+
+   Error 
+
+  Class "Aws\Sqs\SqsClient" not found
+
+  at /home/cmartinez/Projects/erp/back/vendor/laravel/framework/src/Illuminate/Queue/Connectors/SqsConnector.php:26
+     22▕             $config['credentials'] = Arr::only($config, ['key', 'secret', 'token']);
+     23▕         }
+     24▕ 
+     25▕         return new SqsQueue(
+  ➜  26▕             new SqsClient(
+     27▕                 Arr::except($config, ['token'])
+     28▕             ),
+     29▕             $config['queue'],
+     30▕             $config['prefix'] ?? '',
+
+   Error 
+
+  Class "Aws\Sqs\SqsClient" not found
+
+  at /home/cmartinez/Projects/erp/back/vendor/laravel/framework/src/Illuminate/Queue/Connectors/SqsConnector.php:26
+     22▕             $config['credentials'] = Arr::only($config, ['key', 'secret', 'token']);
+     23▕         }
+     24▕ 
+     25▕         return new SqsQueue(
+  ➜  26▕             new SqsClient(
+     27▕                 Arr::except($config, ['token'])
+     28▕             ),
+     29▕             $config['queue'],
+     30▕             $config['prefix'] ?? '',
+
+   Error 
+
+  Class "Aws\Sqs\SqsClient" not found
+
+  at /home/cmartinez/Projects/erp/back/vendor/laravel/framework/src/Illuminate/Queue/Connectors/SqsConnector.php:26
+     22▕             $config['credentials'] = Arr::only($config, ['key', 'secret', 'token']);
+     23▕         }
+     24▕ 
+     25▕         return new SqsQueue(
+  ➜  26▕             new SqsClient(
+     27▕                 Arr::except($config, ['token'])
+     28▕             ),
+     29▕             $config['queue'],
+     30▕             $config['prefix'] ?? '',
+
+   Error 
+
+  Class "Aws\Sqs\SqsClient" not found
+
+  at /home/cmartinez/Projects/erp/back/vendor/laravel/framework/src/Illuminate/Queue/Connectors/SqsConnector.php:26
+     22▕             $config['credentials'] = Arr::only($config, ['key', 'secret', 'token']);
+     23▕         }
+     24▕ 
+     25▕         return new SqsQueue(
+  ➜  26▕             new SqsClient(
+     27▕                 Arr::except($config, ['token'])
+     28▕             ),
+     29▕             $config['queue'],
+     30▕             $config['prefix'] ?? '',
+
+   Error 
+
+  Class "Aws\Sqs\SqsClient" not found
+
+  at /home/cmartinez/Projects/erp/back/vendor/laravel/framework/src/Illuminate/Queue/Connectors/SqsConnector.php:26
+     22▕             $config['credentials'] = Arr::only($config, ['key', 'secret', 'token']);
+     23▕         }
+     24▕ 
+     25▕         return new SqsQueue(
+  ➜  26▕             new SqsClient(
+     27▕                 Arr::except($config, ['token'])
+     28▕             ),
+     29▕             $config['queue'],
+     30▕             $config['prefix'] ?? '',
+
+
+      [2m+17 vendor frames [22m
+
+  18  /home/cmartinez/Projects/erp/back/artisan:35
+      Illuminate\Foundation\Console\Kernel::handle()
+
+
+      [2m+17 vendor frames [22m
+
+  18  /home/cmartinez/Projects/erp/back/artisan:35
+      Illuminate\Foundation\Console\Kernel::handle()
+
+      [2m+17 vendor frames [22m
+
+  18  /home/cmartinez/Projects/erp/back/artisan:35
+      Illuminate\Foundation\Console\Kernel::handle()
+
+
+      [2m+17 vendor frames [22m
+
+  18  /home/cmartinez/Projects/erp/back/artisan:35
+      Illuminate\Foundation\Console\Kernel::handle()
+
+
+      [2m+17 vendor frames [22m
+
+  18  /home/cmartinez/Projects/erp/back/artisan:35
+      Illuminate\Foundation\Console\Kernel::handle()
+
+
+      [2m+17 vendor frames [22m
+
+  18  /home/cmartinez/Projects/erp/back/artisan:35
+      Illuminate\Foundation\Console\Kernel::handle()
+
+
+      [2m+17 vendor frames [22m
+
+  18  /home/cmartinez/Projects/erp/back/artisan:35
+      Illuminate\Foundation\Console\Kernel::handle()
+
+
+      [2m+17 vendor frames [22m
+
+  18  /home/cmartinez/Projects/erp/back/artisan:35
+      Illuminate\Foundation\Console\Kernel::handle()
+
+
+   Error 
+
+  Class "Aws\Sqs\SqsClient" not found
+
+  at /home/cmartinez/Projects/erp/back/vendor/laravel/framework/src/Illuminate/Queue/Connectors/SqsConnector.php:26
+     22▕             $config['credentials'] = Arr::only($config, ['key', 'secret', 'token']);
+     23▕         }
+     24▕ 
+     25▕         return new SqsQueue(
+  ➜  26▕             new SqsClient(
+     27▕                 Arr::except($config, ['token'])
+     28▕             ),
+     29▕             $config['queue'],
+     30▕             $config['prefix'] ?? '',
+
+   Error 
+
+  Class "Aws\Sqs\SqsClient" not found
+
+  at /home/cmartinez/Projects/erp/back/vendor/laravel/framework/src/Illuminate/Queue/Connectors/SqsConnector.php:26
+
+   Error 
+     22▕             $config['credentials'] = Arr::only($config, ['key', 'secret', 'token']);
+     23▕         }
+     24▕ 
+     25▕         return new SqsQueue(
+  ➜  26▕             new SqsClient(
+     27▕                 Arr::except($config, ['token'])
+     28▕             ),
+     29▕             $config['queue'],
+     30▕             $config['prefix'] ?? '',
+
+  Class "Aws\Sqs\SqsClient" not found
+
+   Error 
+
+  Class "Aws\Sqs\SqsClient" not found
+
+  at /home/cmartinez/Projects/erp/back/vendor/laravel/framework/src/Illuminate/Queue/Connectors/SqsConnector.php:26
+     22▕             $config['credentials'] = Arr::only($config, ['key', 'secret', 'token']);
+     23▕         }
+     24▕ 
+     25▕         return new SqsQueue(
+  ➜  26▕             new SqsClient(
+     27▕                 Arr::except($config, ['token'])
+     28▕             ),
+     29▕             $config['queue'],
+     30▕             $config['prefix'] ?? '',
+
+  at /home/cmartinez/Projects/erp/back/vendor/laravel/framework/src/Illuminate/Queue/Connectors/SqsConnector.php:26
+     22▕             $config['credentials'] = Arr::only($config, ['key', 'secret', 'token']);
+     23▕         }
+     24▕ 
+     25▕         return new SqsQueue(
+  ➜  26▕             new SqsClient(
+     27▕                 Arr::except($config, ['token'])
+     28▕             ),
+     29▕             $config['queue'],
+     30▕             $config['prefix'] ?? '',
+
+   Error 
+
+  Class "Aws\Sqs\SqsClient" not found
+
+  at /home/cmartinez/Projects/erp/back/vendor/laravel/framework/src/Illuminate/Queue/Connectors/SqsConnector.php:26
+     22▕             $config['credentials'] = Arr::only($config, ['key', 'secret', 'token']);
+     23▕         }
+     24▕ 
+     25▕         return new SqsQueue(
+  ➜  26▕             new SqsClient(
+     27▕                 Arr::except($config, ['token'])
+     28▕             ),
+     29▕             $config['queue'],
+     30▕             $config['prefix'] ?? '',
+
+
+   Error 
+   Error 
+
+  Class "Aws\Sqs\SqsClient" not found
+
+
+  Class "Aws\Sqs\SqsClient" not found
+  at /home/cmartinez/Projects/erp/back/vendor/laravel/framework/src/Illuminate/Queue/Connectors/SqsConnector.php:26
+
+  at /home/cmartinez/Projects/erp/back/vendor/laravel/framework/src/Illuminate/Queue/Connectors/SqsConnector.php:26
+     22▕             $config['credentials'] = Arr::only($config, ['key', 'secret', 'token']);
+     23▕         }
+     24▕ 
+     25▕         return new SqsQueue(
+  ➜  26▕             new SqsClient(
+     27▕                 Arr::except($config, ['token'])
+     28▕             ),
+     29▕             $config['queue'],
+     30▕             $config['prefix'] ?? '',
+     22▕             $config['credentials'] = Arr::only($config, ['key', 'secret', 'token']);
+     23▕         }
+     24▕ 
+     25▕         return new SqsQueue(
+  ➜  26▕             new SqsClient(
+     27▕                 Arr::except($config, ['token'])
+     28▕             ),
+     29▕             $config['queue'],
+     30▕             $config['prefix'] ?? '',
+
+   Error 
+
+  Class "Aws\Sqs\SqsClient" not found
+
+  at /home/cmartinez/Projects/erp/back/vendor/laravel/framework/src/Illuminate/Queue/Connectors/SqsConnector.php:26
+     22▕             $config['credentials'] = Arr::only($config, ['key', 'secret', 'token']);
+     23▕         }
+     24▕ 
+     25▕         return new SqsQueue(
+  ➜  26▕             new SqsClient(
+     27▕                 Arr::except($config, ['token'])
+     28▕             ),
+     29▕             $config['queue'],
+     30▕             $config['prefix'] ?? '',
+
+      [2m+17 vendor frames [22m
+
+  18  /home/cmartinez/Projects/erp/back/artisan:35
+      Illuminate\Foundation\Console\Kernel::handle()
+
+
+      [2m+17 vendor frames [22m
+
+
+
+      [2m+17 vendor frames [22m
+
+  18  /home/cmartinez/Projects/erp/back/artisan:35
+      Illuminate\Foundation\Console\Kernel::handle()
+
+  18  /home/cmartinez/Projects/erp/back/artisan:35
+      Illuminate\Foundation\Console\Kernel::handle()
+
+      [2m+17 vendor frames [22m
+
+  18  /home/cmartinez/Projects/erp/back/artisan:35
+      Illuminate\Foundation\Console\Kernel::handle()
+
+
+      [2m+17 vendor frames [22m
+
+  18  /home/cmartinez/Projects/erp/back/artisan:35
+      Illuminate\Foundation\Console\Kernel::handle()
+
+
+      [2m+17 vendor frames [22m
+
+  18  /home/cmartinez/Projects/erp/back/artisan:35
+      Illuminate\Foundation\Console\Kernel::handle()
+
+
+      [2m+17 vendor frames [22m
+
+  18  /home/cmartinez/Projects/erp/back/artisan:35
+      Illuminate\Foundation\Console\Kernel::handle()
+
+
+      [2m+17 vendor frames [22m
+
+  18  /home/cmartinez/Projects/erp/back/artisan:35
+      Illuminate\Foundation\Console\Kernel::handle()
+
+
+
+   Error 
+   Error 
+
+  Class "Aws\Sqs\SqsClient" not found
+
+  at /home/cmartinez/Projects/erp/back/vendor/laravel/framework/src/Illuminate/Queue/Connectors/SqsConnector.php:26
+
+     22▕             $config['credentials'] = Arr::only($config, ['key', 'secret', 'token']);
+     23▕         }
+     24▕ 
+     25▕         return new SqsQueue(
+  ➜  26▕             new SqsClient(
+     27▕                 Arr::except($config, ['token'])
+     28▕             ),
+     29▕             $config['queue'],
+     30▕             $config['prefix'] ?? '',
+  Class "Aws\Sqs\SqsClient" not found
+
+  at /home/cmartinez/Projects/erp/back/vendor/laravel/framework/src/Illuminate/Queue/Connectors/SqsConnector.php:26
+     22▕             $config['credentials'] = Arr::only($config, ['key', 'secret', 'token']);
+     23▕         }
+     24▕ 
+     25▕         return new SqsQueue(
+  ➜  26▕             new SqsClient(
+     27▕                 Arr::except($config, ['token'])
+     28▕             ),
+     29▕             $config['queue'],
+     30▕             $config['prefix'] ?? '',
+
+   Error 
+
+  Class "Aws\Sqs\SqsClient" not found
+
+  at /home/cmartinez/Projects/erp/back/vendor/laravel/framework/src/Illuminate/Queue/Connectors/SqsConnector.php:26
+
+   Error 
+     22▕             $config['credentials'] = Arr::only($config, ['key', 'secret', 'token']);
+     23▕         }
+     24▕ 
+     25▕         return new SqsQueue(
+  ➜  26▕             new SqsClient(
+     27▕                 Arr::except($config, ['token'])
+     28▕             ),
+     29▕             $config['queue'],
+     30▕             $config['prefix'] ?? '',
+
+  Class "Aws\Sqs\SqsClient" not found
+
+  at /home/cmartinez/Projects/erp/back/vendor/laravel/framework/src/Illuminate/Queue/Connectors/SqsConnector.php:26
+     22▕             $config['credentials'] = Arr::only($config, ['key', 'secret', 'token']);
+     23▕         }
+     24▕ 
+     25▕         return new SqsQueue(
+  ➜  26▕             new SqsClient(
+     27▕                 Arr::except($config, ['token'])
+     28▕             ),
+     29▕             $config['queue'],
+     30▕             $config['prefix'] ?? '',
+
+   Error 
+
+  Class "Aws\Sqs\SqsClient" not found
+
+  at /home/cmartinez/Projects/erp/back/vendor/laravel/framework/src/Illuminate/Queue/Connectors/SqsConnector.php:26
+     22▕             $config['credentials'] = Arr::only($config, ['key', 'secret', 'token']);
+     23▕         }
+     24▕ 
+     25▕         return new SqsQueue(
+  ➜  26▕             new SqsClient(
+     27▕                 Arr::except($config, ['token'])
+     28▕             ),
+     29▕             $config['queue'],
+     30▕             $config['prefix'] ?? '',
+
+   Error 
+
+  Class "Aws\Sqs\SqsClient" not found
+
+  at /home/cmartinez/Projects/erp/back/vendor/laravel/framework/src/Illuminate/Queue/Connectors/SqsConnector.php:26
+     22▕             $config['credentials'] = Arr::only($config, ['key', 'secret', 'token']);
+     23▕         }
+     24▕ 
+     25▕         return new SqsQueue(
+  ➜  26▕             new SqsClient(
+     27▕                 Arr::except($config, ['token'])
+     28▕             ),
+     29▕             $config['queue'],
+     30▕             $config['prefix'] ?? '',
+
+   Error 
+
+  Class "Aws\Sqs\SqsClient" not found
+
+  at /home/cmartinez/Projects/erp/back/vendor/laravel/framework/src/Illuminate/Queue/Connectors/SqsConnector.php:26
+     22▕             $config['credentials'] = Arr::only($config, ['key', 'secret', 'token']);
+     23▕         }
+     24▕ 
+     25▕         return new SqsQueue(
+  ➜  26▕             new SqsClient(
+     27▕                 Arr::except($config, ['token'])
+     28▕             ),
+     29▕             $config['queue'],
+     30▕             $config['prefix'] ?? '',
+
+      [2m+17 vendor frames [22m
+
+  18  /home/cmartinez/Projects/erp/back/artisan:35
+      Illuminate\Foundation\Console\Kernel::handle()
+
+
+   Error 
+
+  Class "Aws\Sqs\SqsClient" not found
+
+  at /home/cmartinez/Projects/erp/back/vendor/laravel/framework/src/Illuminate/Queue/Connectors/SqsConnector.php:26
+     22▕             $config['credentials'] = Arr::only($config, ['key', 'secret', 'token']);
+     23▕         }
+     24▕ 
+     25▕         return new SqsQueue(
+  ➜  26▕             new SqsClient(
+     27▕                 Arr::except($config, ['token'])
+     28▕             ),
+     29▕             $config['queue'],
+     30▕             $config['prefix'] ?? '',
+
+
+      [2m+17 vendor frames [22m
+
+  18  /home/cmartinez/Projects/erp/back/artisan:35
+      Illuminate\Foundation\Console\Kernel::handle()
+
+      [2m+17 vendor frames [22m
+
+  18  /home/cmartinez/Projects/erp/back/artisan:35
+      Illuminate\Foundation\Console\Kernel::handle()
+
+
+      [2m+17 vendor frames [22m
+
+  18  /home/cmartinez/Projects/erp/back/artisan:35
+      Illuminate\Foundation\Console\Kernel::handle()
+
+
+      [2m+17 vendor frames [22m
+
+  18  /home/cmartinez/Projects/erp/back/artisan:35
+      Illuminate\Foundation\Console\Kernel::handle()
+
+
+      [2m+17 vendor frames [22m
+
+  18  /home/cmartinez/Projects/erp/back/artisan:35
+      Illuminate\Foundation\Console\Kernel::handle()
+
+
+      [2m+17 vendor frames [22m
+
+  18  /home/cmartinez/Projects/erp/back/artisan:35
+      Illuminate\Foundation\Console\Kernel::handle()
+
+
+      [2m+17 vendor frames [22m
+
+  18  /home/cmartinez/Projects/erp/back/artisan:35
+      Illuminate\Foundation\Console\Kernel::handle()
+
+
+
+   Error 
+
+  Class "Aws\Sqs\SqsClient" not found
+
+  at /home/cmartinez/Projects/erp/back/vendor/laravel/framework/src/Illuminate/Queue/Connectors/SqsConnector.php:26
+     22▕             $config['credentials'] = Arr::only($config, ['key', 'secret', 'token']);
+     23▕         }
+     24▕ 
+     25▕         return new SqsQueue(
+  ➜  26▕             new SqsClient(
+     27▕                 Arr::except($config, ['token'])
+     28▕             ),
+     29▕             $config['queue'],
+     30▕             $config['prefix'] ?? '',
+
+
+   Error 
+
+  Class "Aws\Sqs\SqsClient" not found
+
+   Error 
+  at /home/cmartinez/Projects/erp/back/vendor/laravel/framework/src/Illuminate/Queue/Connectors/SqsConnector.php:26
+
+  Class "Aws\Sqs\SqsClient" not found
+     22▕             $config['credentials'] = Arr::only($config, ['key', 'secret', 'token']);
+     23▕         }
+     24▕ 
+     25▕         return new SqsQueue(
+  ➜  26▕             new SqsClient(
+     27▕                 Arr::except($config, ['token'])
+     28▕             ),
+     29▕             $config['queue'],
+     30▕             $config['prefix'] ?? '',
+
+  at /home/cmartinez/Projects/erp/back/vendor/laravel/framework/src/Illuminate/Queue/Connectors/SqsConnector.php:26
+     22▕             $config['credentials'] = Arr::only($config, ['key', 'secret', 'token']);
+     23▕         }
+     24▕ 
+     25▕         return new SqsQueue(
+  ➜  26▕             new SqsClient(
+     27▕                 Arr::except($config, ['token'])
+     28▕             ),
+     29▕             $config['queue'],
+     30▕             $config['prefix'] ?? '',
+
+   Error 
+
+  Class "Aws\Sqs\SqsClient" not found
+
+  at /home/cmartinez/Projects/erp/back/vendor/laravel/framework/src/Illuminate/Queue/Connectors/SqsConnector.php:26
+
+   Error 
+     22▕             $config['credentials'] = Arr::only($config, ['key', 'secret', 'token']);
+     23▕         }
+     24▕ 
+     25▕         return new SqsQueue(
+  ➜  26▕             new SqsClient(
+     27▕                 Arr::except($config, ['token'])
+     28▕             ),
+     29▕             $config['queue'],
+     30▕             $config['prefix'] ?? '',
+
+  Class "Aws\Sqs\SqsClient" not found
+
+  at /home/cmartinez/Projects/erp/back/vendor/laravel/framework/src/Illuminate/Queue/Connectors/SqsConnector.php:26
+   Error 
+
+     22▕             $config['credentials'] = Arr::only($config, ['key', 'secret', 'token']);
+     23▕         }
+     24▕ 
+     25▕         return new SqsQueue(
+  ➜  26▕             new SqsClient(
+     27▕                 Arr::except($config, ['token'])
+     28▕             ),
+     29▕             $config['queue'],
+     30▕             $config['prefix'] ?? '',
+  Class "Aws\Sqs\SqsClient" not found
+
+  at /home/cmartinez/Projects/erp/back/vendor/laravel/framework/src/Illuminate/Queue/Connectors/SqsConnector.php:26
+     22▕             $config['credentials'] = Arr::only($config, ['key', 'secret', 'token']);
+     23▕         }
+     24▕ 
+     25▕         return new SqsQueue(
+  ➜  26▕             new SqsClient(
+     27▕                 Arr::except($config, ['token'])
+     28▕             ),
+     29▕             $config['queue'],
+     30▕             $config['prefix'] ?? '',
+
+   Error 
+
+  Class "Aws\Sqs\SqsClient" not found
+
+  at /home/cmartinez/Projects/erp/back/vendor/laravel/framework/src/Illuminate/Queue/Connectors/SqsConnector.php:26
+     22▕             $config['credentials'] = Arr::only($config, ['key', 'secret', 'token']);
+     23▕         }
+     24▕ 
+     25▕         return new SqsQueue(
+  ➜  26▕             new SqsClient(
+     27▕                 Arr::except($config, ['token'])
+     28▕             ),
+     29▕             $config['queue'],
+     30▕             $config['prefix'] ?? '',
+
+   Error 
+
+  Class "Aws\Sqs\SqsClient" not found
+
+  at /home/cmartinez/Projects/erp/back/vendor/laravel/framework/src/Illuminate/Queue/Connectors/SqsConnector.php:26
+     22▕             $config['credentials'] = Arr::only($config, ['key', 'secret', 'token']);
+     23▕         }
+     24▕ 
+     25▕         return new SqsQueue(
+  ➜  26▕             new SqsClient(
+     27▕                 Arr::except($config, ['token'])
+     28▕             ),
+     29▕             $config['queue'],
+     30▕             $config['prefix'] ?? '',
+
+
+      [2m+17 vendor frames [22m
+
+  18  /home/cmartinez/Projects/erp/back/artisan:35
+      Illuminate\Foundation\Console\Kernel::handle()
+
+      [2m+17 vendor frames [22m
+
+  18  /home/cmartinez/Projects/erp/back/artisan:35
+      Illuminate\Foundation\Console\Kernel::handle()
+
+
+      [2m+17 vendor frames [22m
+
+  18  /home/cmartinez/Projects/erp/back/artisan:35
+      Illuminate\Foundation\Console\Kernel::handle()
+
+
+      [2m+17 vendor frames [22m
+
+  18  /home/cmartinez/Projects/erp/back/artisan:35
+      Illuminate\Foundation\Console\Kernel::handle()
+
+
+
+      [2m+17 vendor frames [22m
+      [2m+17 vendor frames [22m
+
+  18  /home/cmartinez/Projects/erp/back/artisan:35
+      Illuminate\Foundation\Console\Kernel::handle()
+
+
+  18  /home/cmartinez/Projects/erp/back/artisan:35
+      Illuminate\Foundation\Console\Kernel::handle()
+
+
+      [2m+17 vendor frames [22m
+
+  18  /home/cmartinez/Projects/erp/back/artisan:35
+      Illuminate\Foundation\Console\Kernel::handle()
+
+
+      [2m+17 vendor frames [22m
+
+  18  /home/cmartinez/Projects/erp/back/artisan:35
+      Illuminate\Foundation\Console\Kernel::handle()
+
+
+
+   Error 
+
+  Class "Aws\Sqs\SqsClient" not found
+
+  at /home/cmartinez/Projects/erp/back/vendor/laravel/framework/src/Illuminate/Queue/Connectors/SqsConnector.php:26
+   Error 
+     22▕             $config['credentials'] = Arr::only($config, ['key', 'secret', 'token']);
+     23▕         }
+     24▕ 
+     25▕         return new SqsQueue(
+  ➜  26▕             new SqsClient(
+     27▕                 Arr::except($config, ['token'])
+     28▕             ),
+     29▕             $config['queue'],
+     30▕             $config['prefix'] ?? '',
+
+  Class "Aws\Sqs\SqsClient" not found
+
+  at /home/cmartinez/Projects/erp/back/vendor/laravel/framework/src/Illuminate/Queue/Connectors/SqsConnector.php:26
+     22▕             $config['credentials'] = Arr::only($config, ['key', 'secret', 'token']);
+     23▕         }
+     24▕ 
+     25▕         return new SqsQueue(
+  ➜  26▕             new SqsClient(
+     27▕                 Arr::except($config, ['token'])
+     28▕             ),
+     29▕             $config['queue'],
+     30▕             $config['prefix'] ?? '',
+
+
+   Error 
+
+  Class "Aws\Sqs\SqsClient" not found
+
+  at /home/cmartinez/Projects/erp/back/vendor/laravel/framework/src/Illuminate/Queue/Connectors/SqsConnector.php:26
+
+   Error 
+   Error 
+
+  Class "Aws\Sqs\SqsClient" not found
+     22▕             $config['credentials'] = Arr::only($config, ['key', 'secret', 'token']);
+     23▕         }
+     24▕ 
+     25▕         return new SqsQueue(
+  ➜  26▕             new SqsClient(
+     27▕                 Arr::except($config, ['token'])
+     28▕             ),
+     29▕             $config['queue'],
+     30▕             $config['prefix'] ?? '',
+
+  at /home/cmartinez/Projects/erp/back/vendor/laravel/framework/src/Illuminate/Queue/Connectors/SqsConnector.php:26
+
+     22▕             $config['credentials'] = Arr::only($config, ['key', 'secret', 'token']);
+     23▕         }
+     24▕ 
+     25▕         return new SqsQueue(
+  ➜  26▕             new SqsClient(
+     27▕                 Arr::except($config, ['token'])
+     28▕             ),
+     29▕             $config['queue'],
+     30▕             $config['prefix'] ?? '',
+  Class "Aws\Sqs\SqsClient" not found
+
+   Error 
+
+
+  at /home/cmartinez/Projects/erp/back/vendor/laravel/framework/src/Illuminate/Queue/Connectors/SqsConnector.php:26
+  Class "Aws\Sqs\SqsClient" not found
+
+  at /home/cmartinez/Projects/erp/back/vendor/laravel/framework/src/Illuminate/Queue/Connectors/SqsConnector.php:26
+     22▕             $config['credentials'] = Arr::only($config, ['key', 'secret', 'token']);
+     23▕         }
+     24▕ 
+     25▕         return new SqsQueue(
+  ➜  26▕             new SqsClient(
+     27▕                 Arr::except($config, ['token'])
+     28▕             ),
+     29▕             $config['queue'],
+     30▕             $config['prefix'] ?? '',
+     22▕             $config['credentials'] = Arr::only($config, ['key', 'secret', 'token']);
+     23▕         }
+     24▕ 
+     25▕         return new SqsQueue(
+  ➜  26▕             new SqsClient(
+     27▕                 Arr::except($config, ['token'])
+     28▕             ),
+     29▕             $config['queue'],
+     30▕             $config['prefix'] ?? '',
+
+   Error 
+
+  Class "Aws\Sqs\SqsClient" not found
+
+
+   Error 
+
+  Class "Aws\Sqs\SqsClient" not found
+
+  at /home/cmartinez/Projects/erp/back/vendor/laravel/framework/src/Illuminate/Queue/Connectors/SqsConnector.php:26
+  at /home/cmartinez/Projects/erp/back/vendor/laravel/framework/src/Illuminate/Queue/Connectors/SqsConnector.php:26
+     22▕             $config['credentials'] = Arr::only($config, ['key', 'secret', 'token']);
+     23▕         }
+     24▕ 
+     25▕         return new SqsQueue(
+  ➜  26▕             new SqsClient(
+     27▕                 Arr::except($config, ['token'])
+     28▕             ),
+     29▕             $config['queue'],
+     30▕             $config['prefix'] ?? '',
+     22▕             $config['credentials'] = Arr::only($config, ['key', 'secret', 'token']);
+     23▕         }
+     24▕ 
+     25▕         return new SqsQueue(
+  ➜  26▕             new SqsClient(
+     27▕                 Arr::except($config, ['token'])
+     28▕             ),
+     29▕             $config['queue'],
+     30▕             $config['prefix'] ?? '',
+
+
+      [2m+17 vendor frames [22m
+
+  18  /home/cmartinez/Projects/erp/back/artisan:35
+      Illuminate\Foundation\Console\Kernel::handle()
+
+      [2m+17 vendor frames [22m
+
+
+  18  /home/cmartinez/Projects/erp/back/artisan:35
+      [2m+17 vendor frames [22m
+
+  18  /home/cmartinez/Projects/erp/back/artisan:35
+      Illuminate\Foundation\Console\Kernel::handle()
+
+      Illuminate\Foundation\Console\Kernel::handle()
+
+
+      [2m+17 vendor frames [22m
+
+  18  /home/cmartinez/Projects/erp/back/artisan:35
+      Illuminate\Foundation\Console\Kernel::handle()
+
+
+      [2m+17 vendor frames [22m
+
+  18  /home/cmartinez/Projects/erp/back/artisan:35
+      Illuminate\Foundation\Console\Kernel::handle()
+
+
+      [2m+17 vendor frames [22m
+
+  18  /home/cmartinez/Projects/erp/back/artisan:35
+      Illuminate\Foundation\Console\Kernel::handle()
+
+
+      [2m+17 vendor frames [22m
+
+  18  /home/cmartinez/Projects/erp/back/artisan:35
+      Illuminate\Foundation\Console\Kernel::handle()
+
+
+      [2m+17 vendor frames [22m
+
+  18  /home/cmartinez/Projects/erp/back/artisan:35
+      Illuminate\Foundation\Console\Kernel::handle()
+
+
+
+   Error 
+
+  Class "Aws\Sqs\SqsClient" not found
+
+  at /home/cmartinez/Projects/erp/back/vendor/laravel/framework/src/Illuminate/Queue/Connectors/SqsConnector.php:26
+     22▕             $config['credentials'] = Arr::only($config, ['key', 'secret', 'token']);
+     23▕         }
+     24▕ 
+     25▕         return new SqsQueue(
+  ➜  26▕             new SqsClient(
+     27▕                 Arr::except($config, ['token'])
+     28▕             ),
+     29▕             $config['queue'],
+     30▕             $config['prefix'] ?? '',
+   Error 
+
+  Class "Aws\Sqs\SqsClient" not found
+
+  at /home/cmartinez/Projects/erp/back/vendor/laravel/framework/src/Illuminate/Queue/Connectors/SqsConnector.php:26
+
+   Error 
+
+     22▕             $config['credentials'] = Arr::only($config, ['key', 'secret', 'token']);
+     23▕         }
+     24▕ 
+     25▕         return new SqsQueue(
+  ➜  26▕             new SqsClient(
+     27▕                 Arr::except($config, ['token'])
+     28▕             ),
+     29▕             $config['queue'],
+     30▕             $config['prefix'] ?? '',
+  Class "Aws\Sqs\SqsClient" not found
+
+   Error 
+
+  at /home/cmartinez/Projects/erp/back/vendor/laravel/framework/src/Illuminate/Queue/Connectors/SqsConnector.php:26
+     22▕             $config['credentials'] = Arr::only($config, ['key', 'secret', 'token']);
+     23▕         }
+     24▕ 
+     25▕         return new SqsQueue(
+  ➜  26▕             new SqsClient(
+     27▕                 Arr::except($config, ['token'])
+     28▕             ),
+     29▕             $config['queue'],
+     30▕             $config['prefix'] ?? '',
+
+  Class "Aws\Sqs\SqsClient" not found
+
+  at /home/cmartinez/Projects/erp/back/vendor/laravel/framework/src/Illuminate/Queue/Connectors/SqsConnector.php:26
+
+     22▕             $config['credentials'] = Arr::only($config, ['key', 'secret', 'token']);
+     23▕         }
+     24▕ 
+     25▕         return new SqsQueue(
+  ➜  26▕             new SqsClient(
+     27▕                 Arr::except($config, ['token'])
+     28▕             ),
+     29▕             $config['queue'],
+     30▕             $config['prefix'] ?? '',
+   Error 
+
+  Class "Aws\Sqs\SqsClient" not found
+
+  at /home/cmartinez/Projects/erp/back/vendor/laravel/framework/src/Illuminate/Queue/Connectors/SqsConnector.php:26
+     22▕             $config['credentials'] = Arr::only($config, ['key', 'secret', 'token']);
+     23▕         }
+     24▕ 
+     25▕         return new SqsQueue(
+  ➜  26▕             new SqsClient(
+     27▕                 Arr::except($config, ['token'])
+     28▕             ),
+     29▕             $config['queue'],
+     30▕             $config['prefix'] ?? '',
+
+   Error 
+
+   Error 
+
+  Class "Aws\Sqs\SqsClient" not found
+
+  at /home/cmartinez/Projects/erp/back/vendor/laravel/framework/src/Illuminate/Queue/Connectors/SqsConnector.php:26
+
+     22▕             $config['credentials'] = Arr::only($config, ['key', 'secret', 'token']);
+     23▕         }
+     24▕ 
+     25▕         return new SqsQueue(
+  ➜  26▕             new SqsClient(
+     27▕                 Arr::except($config, ['token'])
+     28▕             ),
+     29▕             $config['queue'],
+     30▕             $config['prefix'] ?? '',
+  Class "Aws\Sqs\SqsClient" not found
+
+  at /home/cmartinez/Projects/erp/back/vendor/laravel/framework/src/Illuminate/Queue/Connectors/SqsConnector.php:26
+     22▕             $config['credentials'] = Arr::only($config, ['key', 'secret', 'token']);
+     23▕         }
+     24▕ 
+     25▕         return new SqsQueue(
+  ➜  26▕             new SqsClient(
+     27▕                 Arr::except($config, ['token'])
+     28▕             ),
+     29▕             $config['queue'],
+     30▕             $config['prefix'] ?? '',
+
+   Error 
+
+  Class "Aws\Sqs\SqsClient" not found
+
+  at /home/cmartinez/Projects/erp/back/vendor/laravel/framework/src/Illuminate/Queue/Connectors/SqsConnector.php:26
+     22▕             $config['credentials'] = Arr::only($config, ['key', 'secret', 'token']);
+     23▕         }
+     24▕ 
+     25▕         return new SqsQueue(
+  ➜  26▕             new SqsClient(
+     27▕                 Arr::except($config, ['token'])
+     28▕             ),
+     29▕             $config['queue'],
+     30▕             $config['prefix'] ?? '',
+
+
+      [2m+17 vendor frames [22m
+
+  18  /home/cmartinez/Projects/erp/back/artisan:35
+      Illuminate\Foundation\Console\Kernel::handle()
+
+      [2m+17 vendor frames [22m
+
+  18  /home/cmartinez/Projects/erp/back/artisan:35
+      Illuminate\Foundation\Console\Kernel::handle()
+
+
+      [2m+17 vendor frames [22m
+
+  18  /home/cmartinez/Projects/erp/back/artisan:35
+      Illuminate\Foundation\Console\Kernel::handle()
+
+
+      [2m+17 vendor frames [22m
+
+      [2m+17 vendor frames [22m
+
+  18  /home/cmartinez/Projects/erp/back/artisan:35
+      Illuminate\Foundation\Console\Kernel::handle()
+
+
+  18  /home/cmartinez/Projects/erp/back/artisan:35
+      Illuminate\Foundation\Console\Kernel::handle()
+
+
+      [2m+17 vendor frames [22m
+
+  18  /home/cmartinez/Projects/erp/back/artisan:35
+      Illuminate\Foundation\Console\Kernel::handle()
+
+
+      [2m+17 vendor frames [22m
+
+  18  /home/cmartinez/Projects/erp/back/artisan:35
+      Illuminate\Foundation\Console\Kernel::handle()
+
+
+      [2m+17 vendor frames [22m
+
+  18  /home/cmartinez/Projects/erp/back/artisan:35
+      Illuminate\Foundation\Console\Kernel::handle()
+
+  2023-06-15 13:51:56 App\Jobs\SendUnsubscribeEmployeeEmailJob ....... RUNNING
+  2023-06-15 13:51:58 App\Jobs\SendUnsubscribeEmployeeEmailJob  1,503.54ms DONE
+  2023-06-15 13:56:00 App\Jobs\SendUnsubscribeEmployeeEmailJob ....... RUNNING
+  2023-06-15 13:56:02 App\Jobs\SendUnsubscribeEmployeeEmailJob  2,038.38ms DONE
+  2023-06-23 10:17:04 App\Jobs\SendEmailPermissionNotificationJob .... RUNNING
+  2023-06-23 10:17:04 App\Jobs\SendEmailPermissionNotificationJob  7.43ms FAIL
+  2023-06-23 10:17:04 App\Jobs\SendEmailPermissionNotificationJob .... RUNNING
+  2023-06-23 10:17:04 App\Jobs\SendEmailPermissionNotificationJob  3.11ms FAIL
+  2023-06-23 10:17:04 App\Jobs\SendEmailPermissionNotificationJob .... RUNNING
+  2023-06-23 10:17:04 App\Jobs\SendEmailPermissionNotificationJob  3.36ms FAIL
+  2023-06-23 10:20:25 App\Jobs\SendEmailPermissionNotificationJob .... RUNNING
+  2023-06-23 10:20:25 App\Jobs\SendEmailPermissionNotificationJob  12.66ms FAIL
+  2023-06-23 10:20:25 App\Jobs\SendEmailPermissionNotificationJob .... RUNNING
+  2023-06-23 10:20:25 App\Jobs\SendEmailPermissionNotificationJob  3.26ms FAIL
+  2023-06-23 10:20:25 App\Jobs\SendEmailPermissionNotificationJob .... RUNNING
+  2023-06-23 10:20:25 App\Jobs\SendEmailPermissionNotificationJob  2.43ms FAIL
+  2023-06-23 10:21:46 App\Jobs\SendPaymentVoucherEmailJob ............ RUNNING
+  2023-06-23 10:21:50 App\Jobs\SendPaymentVoucherEmailJob .... 3,780.78ms DONE
+  2023-06-23 10:22:49 App\Jobs\SendPaymentVoucherEmailJob ............ RUNNING
+  2023-06-23 10:22:54 App\Jobs\SendPaymentVoucherEmailJob .... 5,542.94ms DONE
+  2023-06-23 10:25:37 App\Jobs\SendPaymentVoucherEmailJob ............ RUNNING
+  2023-06-23 10:25:40 App\Jobs\SendPaymentVoucherEmailJob .... 3,627.23ms DONE
+  2023-06-23 10:30:49 App\Jobs\SendEmailPermissionNotificationJob .... RUNNING
+  2023-06-23 10:30:49 App\Jobs\SendEmailPermissionNotificationJob  15.79ms FAIL
+  2023-06-23 10:30:49 App\Jobs\SendEmailPermissionNotificationJob .... RUNNING
+  2023-06-23 10:30:49 App\Jobs\SendEmailPermissionNotificationJob  4.54ms FAIL
+  2023-06-23 10:30:49 App\Jobs\SendEmailPermissionNotificationJob .... RUNNING
+  2023-06-23 10:30:49 App\Jobs\SendEmailPermissionNotificationJob  5.16ms FAIL
+  2023-06-23 10:32:28 App\Jobs\SendEmailPermissionNotificationJob .... RUNNING
+  2023-06-23 10:32:28 App\Jobs\SendEmailPermissionNotificationJob  3.26ms FAIL
+  2023-06-23 10:32:28 App\Jobs\SendEmailPermissionNotificationJob .... RUNNING
+  2023-06-23 10:32:28 App\Jobs\SendEmailPermissionNotificationJob  2.30ms FAIL
+  2023-06-23 10:32:29 App\Jobs\SendEmailPermissionNotificationJob .... RUNNING
+  2023-06-23 10:32:29 App\Jobs\SendEmailPermissionNotificationJob  2.36ms FAIL
+  2023-06-23 10:35:07 App\Jobs\SendEmailPermissionNotificationJob .... RUNNING
+  2023-06-23 10:35:07 App\Jobs\SendEmailPermissionNotificationJob  12.29ms FAIL
+  2023-06-23 10:35:07 App\Jobs\SendEmailPermissionNotificationJob .... RUNNING
+  2023-06-23 10:35:07 App\Jobs\SendEmailPermissionNotificationJob  2.55ms FAIL
+  2023-06-23 10:35:07 App\Jobs\SendEmailPermissionNotificationJob .... RUNNING
+  2023-06-23 10:35:07 App\Jobs\SendEmailPermissionNotificationJob  2.59ms FAIL
+  2023-06-23 10:35:58 App\Jobs\SendEmailPermissionNotificationJob .... RUNNING
+  2023-06-23 10:35:59 App\Jobs\SendEmailPermissionNotificationJob  1,327.21ms DONE
+  2023-06-26 08:00:54 App\Jobs\SendEmailPermissionNotificationJob .... RUNNING
+  2023-06-26 08:00:54 App\Jobs\SendEmailPermissionNotificationJob  22.72ms FAIL
+  2023-06-26 08:00:54 App\Jobs\SendEmailPermissionNotificationJob .... RUNNING
+  2023-06-26 08:00:54 App\Jobs\SendEmailPermissionNotificationJob  2.76ms FAIL
+  2023-06-26 08:00:54 App\Jobs\SendEmailPermissionNotificationJob .... RUNNING
+  2023-06-26 08:00:54 App\Jobs\SendEmailPermissionNotificationJob  2.66ms FAIL
+  2023-06-26 09:57:50 App\Jobs\SendEmailPermissionNotificationJob .... RUNNING
+  2023-06-26 09:57:50 App\Jobs\SendEmailPermissionNotificationJob  16.18ms FAIL
+  2023-06-26 09:57:50 App\Jobs\SendEmailPermissionNotificationJob .... RUNNING
+  2023-06-26 09:57:50 App\Jobs\SendEmailPermissionNotificationJob  3.42ms FAIL
+  2023-06-26 09:57:50 App\Jobs\SendEmailPermissionNotificationJob .... RUNNING
+  2023-06-26 09:57:50 App\Jobs\SendEmailPermissionNotificationJob  3.17ms FAIL
+  2023-06-26 09:57:59 App\Jobs\SendEmailPermissionNotificationJob .... RUNNING
+  2023-06-26 09:57:59 App\Jobs\SendEmailPermissionNotificationJob  21.54ms FAIL
+  2023-06-26 09:57:59 App\Jobs\SendEmailPermissionNotificationJob .... RUNNING
+  2023-06-26 09:57:59 App\Jobs\SendEmailPermissionNotificationJob  2.49ms FAIL
+  2023-06-26 09:57:59 App\Jobs\SendEmailPermissionNotificationJob .... RUNNING
+  2023-06-26 09:57:59 App\Jobs\SendEmailPermissionNotificationJob  2.90ms FAIL
+  2023-06-26 10:24:52 App\Jobs\SendEmailPermissionNotificationJob .... RUNNING
+  2023-06-26 10:24:52 App\Jobs\SendEmailPermissionNotificationJob  15.99ms FAIL
+  2023-06-26 10:24:52 App\Jobs\SendEmailPermissionNotificationJob .... RUNNING
+  2023-06-26 10:24:52 App\Jobs\SendEmailPermissionNotificationJob  3.30ms FAIL
+  2023-06-26 10:24:52 App\Jobs\SendEmailPermissionNotificationJob .... RUNNING
+  2023-06-26 10:24:52 App\Jobs\SendEmailPermissionNotificationJob  2.95ms FAIL
+  2023-06-26 10:45:31 App\Jobs\SendEmailPermissionNotificationJob .... RUNNING
+  2023-06-26 10:45:32 App\Jobs\SendEmailPermissionNotificationJob  1,294.73ms DONE
+  2023-06-26 11:04:26 App\Jobs\SendEmailPermissionNotificationJob .... RUNNING
+  2023-06-26 11:04:27 App\Jobs\SendEmailPermissionNotificationJob  1,301.50ms DONE
+  2023-06-26 11:47:28 App\Jobs\SendEmailPermissionNotificationJob .... RUNNING
+  2023-06-26 11:47:29 App\Jobs\SendEmailPermissionNotificationJob  1,412.44ms DONE
+  2023-06-26 13:02:12 App\Jobs\SendEmailPermissionNotificationJob .... RUNNING
+  2023-06-26 13:02:14 App\Jobs\SendEmailPermissionNotificationJob  1,541.05ms DONE
+  2023-06-26 13:41:49 App\Jobs\SendEmailPermissionNotificationJob .... RUNNING
+  2023-06-26 13:41:50 App\Jobs\SendEmailPermissionNotificationJob  1,516.98ms DONE
+  2023-06-26 13:48:58 App\Jobs\SendEmailPermissionNotificationJob .... RUNNING
+  2023-06-26 13:48:59 App\Jobs\SendEmailPermissionNotificationJob  1,218.60ms DONE
+  2023-06-26 13:57:31 App\Jobs\SendEmailPermissionNotificationJob .... RUNNING
+  2023-06-26 13:57:33 App\Jobs\SendEmailPermissionNotificationJob  1,379.78ms DONE
+  2023-06-26 14:17:12 App\Jobs\SendEmailPermissionNotificationJob .... RUNNING
+  2023-06-26 14:17:15 App\Jobs\SendEmailPermissionNotificationJob  2,348.97ms DONE
+  2023-06-26 15:21:32 App\Jobs\SendEmailPermissionNotificationJob .... RUNNING
+  2023-06-26 15:21:34 App\Jobs\SendEmailPermissionNotificationJob  1,894.49ms DONE
+  2023-06-26 15:28:21 App\Jobs\SendEmailPermissionNotificationJob .... RUNNING
+  2023-06-26 15:28:22 App\Jobs\SendEmailPermissionNotificationJob  1,212.69ms DONE
+  2023-06-26 15:42:43 App\Jobs\SendEmailPermissionNotificationJob .... RUNNING
+  2023-06-26 15:42:45 App\Jobs\SendEmailPermissionNotificationJob  2,180.35ms DONE
+  2023-06-27 08:10:16 App\Jobs\SendEmailPermissionNotificationJob .... RUNNING
+  2023-06-27 08:10:17 App\Jobs\SendEmailPermissionNotificationJob  1,413.14ms DONE
+  2023-06-27 14:11:58 App\Jobs\SendEmailPermissionNotificationJob .... RUNNING
+  2023-06-27 14:11:59 App\Jobs\SendEmailPermissionNotificationJob  1,247.75ms DONE
+  2023-06-27 15:23:57 App\Jobs\SendEmailPermissionNotificationJob .... RUNNING
+  2023-06-27 15:23:58 App\Jobs\SendEmailPermissionNotificationJob  1,280.09ms DONE
+  2023-06-27 16:39:30 App\Jobs\SendEmailPermissionNotificationJob .... RUNNING
+  2023-06-27 16:39:32 App\Jobs\SendEmailPermissionNotificationJob  1,547.25ms DONE
+  2023-06-27 16:40:54 App\Jobs\SendEmailPermissionNotificationJob .... RUNNING
+  2023-06-27 16:40:56 App\Jobs\SendEmailPermissionNotificationJob  1,333.68ms DONE
+  2023-06-27 17:29:46 App\Jobs\SendEmailPermissionNotificationJob .... RUNNING
+  2023-06-27 17:29:48 App\Jobs\SendEmailPermissionNotificationJob  1,595.83ms DONE
+  2023-06-27 17:31:28 App\Jobs\SendEmailPermissionNotificationJob .... RUNNING
+  2023-06-27 17:31:30 App\Jobs\SendEmailPermissionNotificationJob  1,478.52ms DONE
+  2023-06-27 17:31:42 App\Jobs\SendEmailPermissionNotificationJob .... RUNNING
+  2023-06-27 17:31:42 App\Jobs\SendEmailPermissionNotificationJob  632.24ms DONE
+  2023-06-27 17:41:09 App\Jobs\SendEmailPermissionNotificationJob .... RUNNING
+  2023-06-27 17:41:11 App\Jobs\SendEmailPermissionNotificationJob  1,797.84ms DONE
+  2023-06-27 17:48:00 App\Jobs\SendEmailPermissionNotificationJob .... RUNNING
+  2023-06-27 17:48:00 App\Jobs\SendEmailPermissionNotificationJob  833.03ms DONE
+  2023-06-27 17:48:19 App\Jobs\SendEmailPermissionNotificationJob .... RUNNING
+  2023-06-27 17:48:20 App\Jobs\SendEmailPermissionNotificationJob  1,238.46ms DONE
+  2023-06-27 17:50:17 App\Jobs\SendEmailPermissionNotificationJob .... RUNNING
+  2023-06-27 17:50:18 App\Jobs\SendEmailPermissionNotificationJob  1,453.06ms DONE
+  2023-06-27 17:58:49 App\Jobs\SendEmailPermissionNotificationJob .... RUNNING
+  2023-06-27 17:58:49 App\Jobs\SendEmailPermissionNotificationJob  864.89ms DONE
+  2023-06-27 17:59:36 App\Jobs\SendEmailPermissionNotificationJob .... RUNNING
+  2023-06-27 17:59:37 App\Jobs\SendEmailPermissionNotificationJob  1,324.44ms DONE
+  2023-06-27 18:07:35 App\Jobs\SendEmailPermissionNotificationJob .... RUNNING
+  2023-06-27 18:07:37 App\Jobs\SendEmailPermissionNotificationJob  1,463.22ms DONE
+  2023-06-27 18:08:07 App\Jobs\SendEmailPermissionNotificationJob .... RUNNING
+  2023-06-27 18:08:08 App\Jobs\SendEmailPermissionNotificationJob  788.75ms DONE
+  2023-06-27 18:17:16 App\Jobs\SendEmailPermissionNotificationJob .... RUNNING
+  2023-06-27 18:17:18 App\Jobs\SendEmailPermissionNotificationJob  1,333.12ms DONE
+  2023-06-27 18:17:33 App\Jobs\SendEmailPermissionNotificationJob .... RUNNING
+  2023-06-27 18:17:33 App\Jobs\SendEmailPermissionNotificationJob  680.47ms DONE
+  2023-06-27 18:26:58 App\Jobs\SendEmailPermissionNotificationJob .... RUNNING
+  2023-06-27 18:26:59 App\Jobs\SendEmailPermissionNotificationJob  1,401.80ms DONE
+  2023-06-27 18:27:36 App\Jobs\SendEmailPermissionNotificationJob .... RUNNING
+  2023-06-27 18:27:38 App\Jobs\SendEmailPermissionNotificationJob  1,281.32ms DONE
+  2023-06-27 18:28:07 App\Jobs\SendEmailPermissionNotificationJob .... RUNNING
+  2023-06-27 18:28:08 App\Jobs\SendEmailPermissionNotificationJob  1,207.57ms DONE
+  2023-06-27 18:30:47 App\Jobs\SendEmailPermissionNotificationJob .... RUNNING
+  2023-06-27 18:30:48 App\Jobs\SendEmailPermissionNotificationJob  929.87ms DONE
+  2023-06-27 18:31:06 App\Jobs\SendEmailPermissionNotificationJob .... RUNNING
+  2023-06-27 18:31:07 App\Jobs\SendEmailPermissionNotificationJob  750.67ms DONE
+  2023-06-27 18:35:09 App\Jobs\SendEmailPermissionNotificationJob .... RUNNING
+  2023-06-27 18:35:09 App\Jobs\SendEmailPermissionNotificationJob  839.11ms DONE
+  2023-06-27 18:40:34 App\Jobs\SendEmailPermissionNotificationJob .... RUNNING
+  2023-06-27 18:40:35 App\Jobs\SendEmailPermissionNotificationJob  849.92ms DONE
+  2023-06-27 18:43:03 App\Jobs\SendEmailPermissionNotificationJob .... RUNNING
+  2023-06-27 18:43:04 App\Jobs\SendEmailPermissionNotificationJob  1,406.20ms DONE
+  2023-06-27 19:05:00 App\Jobs\SendEmailPermissionNotificationJob .... RUNNING
+  2023-06-27 19:05:01 App\Jobs\SendEmailPermissionNotificationJob  1,711.26ms DONE
+  2023-06-28 08:37:09 App\Jobs\SendEmailPermissionNotificationJob .... RUNNING
+  2023-06-28 08:37:10 App\Jobs\SendEmailPermissionNotificationJob  1,593.21ms DONE
+  2023-06-28 11:21:44 App\Jobs\SendEmailPermissionNotificationJob .... RUNNING
+  2023-06-28 11:21:46 App\Jobs\SendEmailPermissionNotificationJob  1,384.34ms DONE
+  2023-06-28 11:28:25 App\Jobs\SendEmailPermissionNotificationJob .... RUNNING
+  2023-06-28 11:28:26 App\Jobs\SendEmailPermissionNotificationJob  1,267.56ms DONE
+  2023-06-28 11:41:14 App\Jobs\SendEmailPermissionNotificationJob .... RUNNING
+  2023-06-28 11:41:15 App\Jobs\SendEmailPermissionNotificationJob  1,282.33ms DONE
+  2023-06-28 15:02:21 App\Jobs\SendEmailPermissionNotificationJob .... RUNNING
+  2023-06-28 15:02:27 App\Jobs\SendEmailPermissionNotificationJob  5,432.71ms FAIL
+  2023-06-28 15:02:27 App\Jobs\SendEmailPermissionNotificationJob .... RUNNING
+  2023-06-28 15:02:33 App\Jobs\SendEmailPermissionNotificationJob  6,134.57ms FAIL
+  2023-06-28 15:02:33 App\Jobs\SendEmailPermissionNotificationJob .... RUNNING
+  2023-06-28 15:02:39 App\Jobs\SendEmailPermissionNotificationJob  6,140.82ms FAIL
+  2023-06-28 15:35:49 App\Jobs\SendEmailPermissionNotificationJob .... RUNNING
+  2023-06-28 15:35:50 App\Jobs\SendEmailPermissionNotificationJob  1,180.91ms DONE
+  2023-06-28 15:36:22 App\Jobs\SendEmailPermissionNotificationJob .... RUNNING
+  2023-06-28 15:36:23 App\Jobs\SendEmailPermissionNotificationJob  1,347.35ms DONE
+  2023-06-28 15:36:38 App\Jobs\SendEmailPermissionNotificationJob .... RUNNING
+  2023-06-28 15:36:39 App\Jobs\SendEmailPermissionNotificationJob  1,281.25ms DONE
+  2023-06-29 10:29:58 App\Jobs\SendEmailPermissionNotificationJob .... RUNNING
+  2023-06-29 10:29:59 App\Jobs\SendEmailPermissionNotificationJob  1,438.54ms DONE
+  2023-06-29 14:46:05 App\Jobs\SendEmailPermissionNotificationJob .... RUNNING
+  2023-06-29 14:46:06 App\Jobs\SendEmailPermissionNotificationJob  1,373.31ms DONE
+  2023-06-30 10:33:13 App\Jobs\SendEmailPermissionNotificationJob .... RUNNING
+  2023-06-30 10:33:15 App\Jobs\SendEmailPermissionNotificationJob  2,000.36ms DONE
+  2023-06-30 15:31:27 App\Jobs\SendEmailPermissionNotificationJob .... RUNNING
+  2023-06-30 15:31:28 App\Jobs\SendEmailPermissionNotificationJob  1,223.33ms DONE
+  2023-06-30 16:05:28 App\Jobs\SendEmailPermissionNotificationJob .... RUNNING
+  2023-06-30 16:05:30 App\Jobs\SendEmailPermissionNotificationJob  1,357.92ms DONE
+  2023-07-02 15:49:27 App\Jobs\SendEmailPermissionNotificationJob .... RUNNING
+  2023-07-02 15:49:29 App\Jobs\SendEmailPermissionNotificationJob  2,019.68ms DONE
+  2023-07-02 15:50:50 App\Jobs\SendEmailPermissionNotificationJob .... RUNNING
+  2023-07-02 15:50:51 App\Jobs\SendEmailPermissionNotificationJob  841.00ms DONE
+  2023-07-02 16:07:52 App\Jobs\SendEmailPermissionNotificationJob .... RUNNING
+  2023-07-02 16:07:53 App\Jobs\SendEmailPermissionNotificationJob  1,647.10ms DONE
+  2023-07-02 17:34:19 App\Jobs\SendEmailPermissionNotificationJob .... RUNNING
+  2023-07-02 17:34:21 App\Jobs\SendEmailPermissionNotificationJob  1,801.90ms DONE
+  2023-07-02 17:35:38 App\Jobs\SendEmailPermissionNotificationJob .... RUNNING
+  2023-07-02 17:35:40 App\Jobs\SendEmailPermissionNotificationJob  1,309.44ms DONE
+  2023-07-02 17:53:20 App\Jobs\SendEmailPermissionNotificationJob .... RUNNING
+  2023-07-02 17:53:22 App\Jobs\SendEmailPermissionNotificationJob  1,630.64ms DONE
+  2023-07-02 18:00:18 App\Jobs\SendEmailPermissionNotificationJob .... RUNNING
+  2023-07-02 18:00:20 App\Jobs\SendEmailPermissionNotificationJob  1,762.84ms DONE
+  2023-07-02 18:00:20 App\Jobs\SendEmailPermissionNotificationJob .... RUNNING
+  2023-07-02 18:00:22 App\Jobs\SendEmailPermissionNotificationJob  1,293.36ms DONE
+  2023-07-02 18:00:25 App\Jobs\SendEmailPermissionNotificationJob .... RUNNING
+  2023-07-02 18:00:25 App\Jobs\SendEmailPermissionNotificationJob  756.37ms DONE
+  2023-07-02 18:00:35 App\Jobs\SendEmailPermissionNotificationJob .... RUNNING
+  2023-07-02 18:00:36 App\Jobs\SendEmailPermissionNotificationJob  761.97ms DONE
+  2023-07-02 18:00:54 App\Jobs\SendEmailPermissionNotificationJob .... RUNNING
+  2023-07-02 18:00:55 App\Jobs\SendEmailPermissionNotificationJob  1,134.26ms DONE
+  2023-07-02 18:00:59 App\Jobs\SendEmailPermissionNotificationJob .... RUNNING
+  2023-07-02 18:01:01 App\Jobs\SendEmailPermissionNotificationJob  1,844.86ms DONE
+  2023-07-02 18:01:07 App\Jobs\SendEmailPermissionNotificationJob .... RUNNING
+  2023-07-02 18:01:08 App\Jobs\SendEmailPermissionNotificationJob  887.94ms DONE
+  2023-07-02 18:01:13 App\Jobs\SendEmailPermissionNotificationJob .... RUNNING
+  2023-07-02 18:01:14 App\Jobs\SendEmailPermissionNotificationJob  760.15ms DONE
+  2023-07-02 18:01:44 App\Jobs\SendEmailPermissionNotificationJob .... RUNNING
+  2023-07-02 18:01:45 App\Jobs\SendEmailPermissionNotificationJob  931.05ms DONE
+  2023-07-02 18:02:04 App\Jobs\SendEmailPermissionNotificationJob .... RUNNING
+  2023-07-02 18:02:05 App\Jobs\SendEmailPermissionNotificationJob  880.20ms DONE
+  2023-07-02 18:02:08 App\Jobs\SendEmailPermissionNotificationJob .... RUNNING
+  2023-07-02 18:02:09 App\Jobs\SendEmailPermissionNotificationJob  778.04ms DONE
+  2023-07-02 18:02:48 App\Jobs\SendEmailPermissionNotificationJob .... RUNNING
+  2023-07-02 18:02:49 App\Jobs\SendEmailPermissionNotificationJob  840.84ms DONE
+  2023-07-02 18:03:15 App\Jobs\SendEmailPermissionNotificationJob .... RUNNING
+  2023-07-02 18:03:16 App\Jobs\SendEmailPermissionNotificationJob  715.21ms DONE
+  2023-07-02 18:03:20 App\Jobs\SendEmailPermissionNotificationJob .... RUNNING
+  2023-07-02 18:03:21 App\Jobs\SendEmailPermissionNotificationJob  770.18ms DONE
+  2023-07-02 18:03:25 App\Jobs\SendEmailPermissionNotificationJob .... RUNNING
+  2023-07-02 18:03:26 App\Jobs\SendEmailPermissionNotificationJob  821.60ms DONE
+  2023-07-02 18:03:49 App\Jobs\SendEmailPermissionNotificationJob .... RUNNING
+  2023-07-02 18:03:50 App\Jobs\SendEmailPermissionNotificationJob  967.47ms DONE
+  2023-07-02 18:04:07 App\Jobs\SendEmailPermissionNotificationJob .... RUNNING
+  2023-07-02 18:04:08 App\Jobs\SendEmailPermissionNotificationJob  891.40ms DONE
+  2023-07-02 18:04:14 App\Jobs\SendEmailPermissionNotificationJob .... RUNNING
+  2023-07-02 18:04:15 App\Jobs\SendEmailPermissionNotificationJob  860.95ms DONE
+  2023-07-02 18:05:56 App\Jobs\SendEmailPermissionNotificationJob .... RUNNING
+  2023-07-02 18:05:57 App\Jobs\SendEmailPermissionNotificationJob  1,148.94ms DONE
+  2023-07-02 18:06:53 App\Jobs\SendEmailPermissionNotificationJob .... RUNNING
+  2023-07-02 18:06:54 App\Jobs\SendEmailPermissionNotificationJob  804.06ms DONE
+  2023-07-02 18:09:48 App\Jobs\SendEmailPermissionNotificationJob .... RUNNING
+  2023-07-02 18:09:49 App\Jobs\SendEmailPermissionNotificationJob  1,430.05ms DONE
+  2023-07-02 18:09:51 App\Jobs\SendEmailPermissionNotificationJob .... RUNNING
+  2023-07-02 18:09:52 App\Jobs\SendEmailPermissionNotificationJob  1,602.88ms DONE
+  2023-07-02 18:11:28 App\Jobs\SendEmailPermissionNotificationJob .... RUNNING
+  2023-07-02 18:11:29 App\Jobs\SendEmailPermissionNotificationJob  750.18ms DONE
+  2023-07-02 18:11:35 App\Jobs\SendEmailPermissionNotificationJob .... RUNNING
+  2023-07-02 18:11:36 App\Jobs\SendEmailPermissionNotificationJob  646.01ms DONE
+  2023-07-02 18:13:18 App\Jobs\SendEmailPermissionNotificationJob .... RUNNING
+  2023-07-02 18:13:19 App\Jobs\SendEmailPermissionNotificationJob  799.00ms DONE
+  2023-07-02 18:32:59 App\Jobs\SendEmailPermissionNotificationJob .... RUNNING
+  2023-07-02 18:33:01 App\Jobs\SendEmailPermissionNotificationJob  2,129.96ms DONE
+  2023-07-02 18:34:54 App\Jobs\SendEmailPermissionNotificationJob .... RUNNING
+  2023-07-02 18:34:55 App\Jobs\SendEmailPermissionNotificationJob  1,550.08ms DONE
+  2023-07-02 18:35:04 App\Jobs\SendEmailPermissionNotificationJob .... RUNNING
+  2023-07-02 18:35:05 App\Jobs\SendEmailPermissionNotificationJob  1,025.16ms DONE
+  2023-07-02 18:36:49 App\Jobs\SendEmailPermissionNotificationJob .... RUNNING
+  2023-07-02 18:36:51 App\Jobs\SendEmailPermissionNotificationJob  1,412.66ms DONE
+  2023-07-02 19:13:29 App\Jobs\SendEmailPermissionNotificationJob .... RUNNING
+  2023-07-02 19:13:31 App\Jobs\SendEmailPermissionNotificationJob  2,084.02ms DONE
+  2023-07-02 19:20:13 App\Jobs\SendEmailPermissionNotificationJob .... RUNNING
+  2023-07-02 19:20:14 App\Jobs\SendEmailPermissionNotificationJob  851.29ms DONE
+  2023-07-02 19:32:32 App\Jobs\SendEmailPermissionNotificationJob .... RUNNING
+  2023-07-02 19:32:34 App\Jobs\SendEmailPermissionNotificationJob  1,627.04ms DONE
+  2023-07-02 20:24:34 App\Jobs\SendEmailPermissionNotificationJob .... RUNNING
+  2023-07-02 20:24:36 App\Jobs\SendEmailPermissionNotificationJob  2,056.43ms DONE
+  2023-07-02 21:12:02 App\Jobs\SendEmailPermissionNotificationJob .... RUNNING
+  2023-07-02 21:12:04 App\Jobs\SendEmailPermissionNotificationJob  2,021.91ms DONE
+  2023-07-02 21:17:31 App\Jobs\SendEmailPermissionNotificationJob .... RUNNING
+  2023-07-02 21:17:32 App\Jobs\SendEmailPermissionNotificationJob  840.97ms DONE
+  2023-07-02 22:32:45 App\Jobs\SendEmailPermissionNotificationJob .... RUNNING
+  2023-07-02 22:32:47 App\Jobs\SendEmailPermissionNotificationJob  1,850.19ms DONE
+  2023-07-02 22:38:38 App\Jobs\SendEmailPermissionNotificationJob .... RUNNING
+  2023-07-02 22:38:40 App\Jobs\SendEmailPermissionNotificationJob  1,647.30ms DONE
+  2023-07-02 22:56:45 App\Jobs\SendEmailPermissionNotificationJob .... RUNNING
+  2023-07-02 22:56:46 App\Jobs\SendEmailPermissionNotificationJob  1,572.05ms DONE
+  2023-07-02 23:11:41 App\Jobs\SendEmailPermissionNotificationJob .... RUNNING
+  2023-07-02 23:11:43 App\Jobs\SendEmailPermissionNotificationJob  1,509.16ms DONE
+  2023-07-03 00:06:06 App\Jobs\SendEmailPermissionNotificationJob .... RUNNING
+  2023-07-03 00:06:08 App\Jobs\SendEmailPermissionNotificationJob  1,811.44ms DONE
+  2023-07-03 01:18:14 App\Jobs\SendEmailPermissionNotificationJob .... RUNNING
+  2023-07-03 01:18:16 App\Jobs\SendEmailPermissionNotificationJob  2,068.13ms DONE
+  2023-07-03 01:22:07 App\Jobs\SendEmailPermissionNotificationJob .... RUNNING
+  2023-07-03 01:22:08 App\Jobs\SendEmailPermissionNotificationJob  838.97ms DONE
+  2023-07-03 01:23:17 App\Jobs\SendEmailPermissionNotificationJob .... RUNNING
+  2023-07-03 01:23:18 App\Jobs\SendEmailPermissionNotificationJob  890.70ms DONE
+  2023-07-03 07:01:10 App\Jobs\SendEmailPermissionNotificationJob .... RUNNING
+  2023-07-03 07:01:14 App\Jobs\SendEmailPermissionNotificationJob  4,213.98ms DONE
+  2023-07-03 07:59:51 App\Jobs\SendEmailPermissionNotificationJob .... RUNNING
+  2023-07-03 07:59:51 App\Jobs\SendEmailPermissionNotificationJob  28.17ms FAIL
+  2023-07-03 07:59:51 App\Jobs\SendEmailPermissionNotificationJob .... RUNNING
+  2023-07-03 07:59:51 App\Jobs\SendEmailPermissionNotificationJob  2.32ms FAIL
+  2023-07-03 07:59:51 App\Jobs\SendEmailPermissionNotificationJob .... RUNNING
+  2023-07-03 07:59:51 App\Jobs\SendEmailPermissionNotificationJob  2.67ms FAIL
+  2023-07-03 08:02:12 App\Jobs\SendEmailPermissionNotificationJob .... RUNNING
+  2023-07-03 08:02:13 App\Jobs\SendEmailPermissionNotificationJob  1,566.27ms DONE
+  2023-07-03 08:17:10 App\Jobs\SendEmailPermissionNotificationJob .... RUNNING
+  2023-07-03 08:17:10 App\Jobs\SendEmailPermissionNotificationJob  7.89ms FAIL
+  2023-07-03 08:17:10 App\Jobs\SendEmailPermissionNotificationJob .... RUNNING
+  2023-07-03 08:17:10 App\Jobs\SendEmailPermissionNotificationJob  2.68ms FAIL
+  2023-07-03 08:17:10 App\Jobs\SendEmailPermissionNotificationJob .... RUNNING
+  2023-07-03 08:17:10 App\Jobs\SendEmailPermissionNotificationJob  2.94ms FAIL
+  2023-07-03 08:17:41 App\Jobs\SendEmailPermissionNotificationJob .... RUNNING
+  2023-07-03 08:17:43 App\Jobs\SendEmailPermissionNotificationJob  1,923.72ms DONE
+  2023-07-03 08:19:07 App\Jobs\SendEmailPermissionNotificationJob .... RUNNING
+  2023-07-03 08:19:07 App\Jobs\SendEmailPermissionNotificationJob  9.09ms FAIL
+  2023-07-03 08:19:07 App\Jobs\SendEmailPermissionNotificationJob .... RUNNING
+  2023-07-03 08:19:07 App\Jobs\SendEmailPermissionNotificationJob  2.84ms FAIL
+  2023-07-03 08:19:07 App\Jobs\SendEmailPermissionNotificationJob .... RUNNING
+  2023-07-03 08:19:07 App\Jobs\SendEmailPermissionNotificationJob  3.22ms FAIL
+  2023-07-03 08:20:37 App\Jobs\SendEmailPermissionNotificationJob .... RUNNING
+  2023-07-03 08:20:38 App\Jobs\SendEmailPermissionNotificationJob  1,433.46ms DONE
+  2023-07-03 08:21:13 App\Jobs\SendEmailPermissionNotificationJob .... RUNNING
+  2023-07-03 08:21:14 App\Jobs\SendEmailPermissionNotificationJob  1,230.15ms DONE
+  2023-07-03 08:28:37 App\Jobs\SendEmailPermissionNotificationJob .... RUNNING
+  2023-07-03 08:28:37 App\Jobs\SendEmailPermissionNotificationJob  6.69ms FAIL
+  2023-07-03 08:28:37 App\Jobs\SendEmailPermissionNotificationJob .... RUNNING
+  2023-07-03 08:28:37 App\Jobs\SendEmailPermissionNotificationJob  3.01ms FAIL
+  2023-07-03 08:28:37 App\Jobs\SendEmailPermissionNotificationJob .... RUNNING
+  2023-07-03 08:28:37 App\Jobs\SendEmailPermissionNotificationJob  2.48ms FAIL
+  2023-07-03 08:30:59 App\Jobs\SendEmailPermissionNotificationJob .... RUNNING
+  2023-07-03 08:30:59 App\Jobs\SendEmailPermissionNotificationJob  3.97ms FAIL
+  2023-07-03 08:30:59 App\Jobs\SendEmailPermissionNotificationJob .... RUNNING
+  2023-07-03 08:30:59 App\Jobs\SendEmailPermissionNotificationJob  2.59ms FAIL
+  2023-07-03 08:30:59 App\Jobs\SendEmailPermissionNotificationJob .... RUNNING
+  2023-07-03 08:30:59 App\Jobs\SendEmailPermissionNotificationJob  3.10ms FAIL
+  2023-07-03 08:33:40 App\Jobs\SendEmailPermissionNotificationJob .... RUNNING
+  2023-07-03 08:33:42 App\Jobs\SendEmailPermissionNotificationJob  1,622.47ms DONE
+  2023-07-03 08:39:45 App\Jobs\SendEmailPermissionNotificationJob .... RUNNING
+  2023-07-03 08:39:45 App\Jobs\SendEmailPermissionNotificationJob  3.21ms FAIL
+  2023-07-03 08:39:45 App\Jobs\SendEmailPermissionNotificationJob .... RUNNING
+  2023-07-03 08:39:45 App\Jobs\SendEmailPermissionNotificationJob  2.70ms FAIL
+  2023-07-03 08:39:45 App\Jobs\SendEmailPermissionNotificationJob .... RUNNING
+  2023-07-03 08:39:45 App\Jobs\SendEmailPermissionNotificationJob  2.87ms FAIL
+  2023-07-03 08:41:48 App\Jobs\SendEmailPermissionNotificationJob .... RUNNING
+  2023-07-03 08:41:48 App\Jobs\SendEmailPermissionNotificationJob  3.91ms FAIL
+  2023-07-03 08:41:48 App\Jobs\SendEmailPermissionNotificationJob .... RUNNING
+  2023-07-03 08:41:48 App\Jobs\SendEmailPermissionNotificationJob  3.66ms FAIL
+  2023-07-03 08:41:48 App\Jobs\SendEmailPermissionNotificationJob .... RUNNING
+  2023-07-03 08:41:48 App\Jobs\SendEmailPermissionNotificationJob  3.86ms FAIL
+  2023-07-03 08:43:29 App\Jobs\SendEmailPermissionNotificationJob .... RUNNING
+  2023-07-03 08:43:30 App\Jobs\SendEmailPermissionNotificationJob  1,422.08ms DONE
+  2023-07-03 08:49:56 App\Jobs\SendEmailPermissionNotificationJob .... RUNNING
+  2023-07-03 08:49:58 App\Jobs\SendEmailPermissionNotificationJob  1,870.31ms DONE
+  2023-07-03 08:52:31 App\Jobs\SendEmailPermissionNotificationJob .... RUNNING
+  2023-07-03 08:52:32 App\Jobs\SendEmailPermissionNotificationJob  1,267.35ms DONE
+  2023-07-03 08:53:11 App\Jobs\SendEmailPermissionNotificationJob .... RUNNING
+  2023-07-03 08:53:12 App\Jobs\SendEmailPermissionNotificationJob  696.09ms DONE
+  2023-07-03 08:54:45 App\Jobs\SendEmailPermissionNotificationJob .... RUNNING
+  2023-07-03 08:54:46 App\Jobs\SendEmailPermissionNotificationJob  1,035.22ms DONE
+  2023-07-03 08:56:10 App\Jobs\SendEmailPermissionNotificationJob .... RUNNING
+  2023-07-03 08:56:11 App\Jobs\SendEmailPermissionNotificationJob  814.75ms DONE
+  2023-07-03 08:56:50 App\Jobs\SendEmailPermissionNotificationJob .... RUNNING
+  2023-07-03 08:56:52 App\Jobs\SendEmailPermissionNotificationJob  1,401.54ms DONE
+  2023-07-03 11:04:38 App\Jobs\SendEmailPermissionNotificationJob .... RUNNING
+  2023-07-03 11:04:40 App\Jobs\SendEmailPermissionNotificationJob  1,496.92ms DONE
+  2023-07-03 11:06:31 App\Jobs\SendEmailPermissionNotificationJob .... RUNNING
+  2023-07-03 11:06:32 App\Jobs\SendEmailPermissionNotificationJob  756.25ms DONE
+  2023-07-03 11:07:08 App\Jobs\SendEmailPermissionNotificationJob .... RUNNING
+  2023-07-03 11:07:09 App\Jobs\SendEmailPermissionNotificationJob  796.56ms DONE
+  2023-07-03 11:24:33 App\Jobs\SendEmailPermissionNotificationJob .... RUNNING
+  2023-07-03 11:24:35 App\Jobs\SendEmailPermissionNotificationJob  1,827.99ms DONE
+  2023-07-03 11:24:59 App\Jobs\SendEmailPermissionNotificationJob .... RUNNING
+  2023-07-03 11:25:00 App\Jobs\SendEmailPermissionNotificationJob  844.30ms DONE
+  2023-07-03 11:57:32 App\Jobs\SendEmailPermissionNotificationJob .... RUNNING
+  2023-07-03 11:57:34 App\Jobs\SendEmailPermissionNotificationJob  1,530.99ms DONE
+  2023-07-03 13:54:59 App\Jobs\SendEmailPermissionNotificationJob .... RUNNING
+  2023-07-03 13:55:01 App\Jobs\SendEmailPermissionNotificationJob  1,317.98ms DONE
+  2023-07-03 14:54:42 App\Jobs\SendEmailPermissionNotificationJob .... RUNNING
+  2023-07-03 14:54:44 App\Jobs\SendEmailPermissionNotificationJob  1,826.02ms DONE
+  2023-07-03 14:58:29 App\Jobs\SendEmailPermissionNotificationJob .... RUNNING
+  2023-07-03 14:58:30 App\Jobs\SendEmailPermissionNotificationJob  1,434.91ms DONE
+  2023-07-03 15:25:31 App\Jobs\SendEmailPermissionNotificationJob .... RUNNING
+  2023-07-03 15:25:32 App\Jobs\SendEmailPermissionNotificationJob  1,344.39ms DONE
+  2023-07-03 15:57:35 App\Jobs\SendEmailPermissionNotificationJob .... RUNNING
+  2023-07-03 15:57:36 App\Jobs\SendEmailPermissionNotificationJob  1,676.77ms DONE
+  2023-07-03 15:57:57 App\Jobs\SendEmailPermissionNotificationJob .... RUNNING
+  2023-07-03 15:57:59 App\Jobs\SendEmailPermissionNotificationJob  1,186.06ms DONE
+  2023-07-03 15:59:35 App\Jobs\SendEmailPermissionNotificationJob .... RUNNING
+  2023-07-03 15:59:35 App\Jobs\SendEmailPermissionNotificationJob  786.44ms DONE
+  2023-07-10 10:25:50 App\Jobs\SendEmailPermissionNotificationJob .... RUNNING
+  2023-07-10 10:25:52 App\Jobs\SendEmailPermissionNotificationJob  1,338.50ms DONE
+  2023-07-10 11:07:37 App\Jobs\SendEmailPermissionNotificationJob .... RUNNING
+  2023-07-10 11:07:38 App\Jobs\SendEmailPermissionNotificationJob  1,534.06ms DONE
+  2023-07-10 11:08:59 App\Jobs\SendEmailPermissionNotificationJob .... RUNNING
+  2023-07-10 11:09:00 App\Jobs\SendEmailPermissionNotificationJob  751.43ms DONE
+  2023-07-19 14:41:21 App\Jobs\SendEmailPermissionNotificationJob .... RUNNING
+  2023-07-19 14:41:22 App\Jobs\SendEmailPermissionNotificationJob  1,339.17ms DONE
+  2023-08-16 14:34:38 App\Jobs\SendEmailPermissionNotificationJob .... RUNNING
+  2023-08-16 14:34:39 App\Jobs\SendEmailPermissionNotificationJob  1,335.07ms DONE
+  2023-08-16 15:10:06 App\Jobs\SendEmailPermissionNotificationJob .... RUNNING
+  2023-08-16 15:10:08 App\Jobs\SendEmailPermissionNotificationJob  1,536.95ms DONE
+  2023-08-17 10:53:50 App\Jobs\SendEmailPermissionNotificationJob .... RUNNING
+  2023-08-17 10:53:50 App\Jobs\SendEmailPermissionNotificationJob .... RUNNING
+  2023-08-17 10:53:52 App\Jobs\SendEmailPermissionNotificationJob  1,767.11ms DONE
+  2023-08-17 10:53:52 App\Jobs\SendEmailPermissionNotificationJob  2,080.23ms DONE
+  2023-08-17 10:55:25 App\Jobs\SendPaymentVoucherEmailJob ............ RUNNING
+  2023-08-17 10:55:29 App\Jobs\SendPaymentVoucherEmailJob .... 3,980.13ms DONE
+  2023-08-17 10:56:25 App\Jobs\SendEmailPermissionNotificationJob .... RUNNING
+  2023-08-17 10:56:26 App\Jobs\SendEmailPermissionNotificationJob .... RUNNING
+  2023-08-17 10:56:26 App\Jobs\SendEmailPermissionNotificationJob  949.95ms DONE
+  2023-08-17 10:56:27 App\Jobs\SendEmailPermissionNotificationJob  758.26ms DONE
+  2023-08-17 11:45:05 App\Jobs\SendEmailPermissionNotificationJob .... RUNNING
+  2023-08-17 11:45:05 App\Jobs\SendEmailPermissionNotificationJob .... RUNNING
+  2023-08-17 11:45:06 App\Jobs\SendEmailPermissionNotificationJob  1,391.55ms DONE
+  2023-08-17 11:45:07 App\Jobs\SendEmailPermissionNotificationJob  1,592.08ms DONE
+  2023-08-17 14:33:06 App\Jobs\SendEmailPermissionNotificationJob .... RUNNING
+  2023-08-17 14:33:07 App\Jobs\SendEmailPermissionNotificationJob  1,282.52ms DONE
+  2023-08-17 14:33:07 App\Jobs\SendEmailPermissionNotificationJob .... RUNNING
+  2023-08-17 14:33:08 App\Jobs\SendEmailPermissionNotificationJob  672.36ms DONE
+  2023-08-18 09:19:42 App\Jobs\SendEmailPermissionNotificationJob  2023-08-18 09:19:42 App\Jobs\SendEmailPermissionNotificationJob .... RUNNING
+ .... RUNNING
+  2023-08-18 09:19:44 App\Jobs\SendEmailPermissionNotificationJob  1,603.59ms DONE
+  2023-08-18 09:19:44 App\Jobs\SendEmailPermissionNotificationJob  1,681.44ms DONE
+  2023-08-18 09:20:07 App\Jobs\SendEmailPermissionNotificationJob .... RUNNING
+  2023-08-18 09:20:08 App\Jobs\SendEmailPermissionNotificationJob .... RUNNING
+  2023-08-18 09:20:08 App\Jobs\SendEmailPermissionNotificationJob  1,488.86ms DONE
+  2023-08-18 09:20:09 App\Jobs\SendEmailPermissionNotificationJob  1,026.74ms DONE
+  2023-08-31 02:12:21 App\Jobs\SendEmailPermissionNotificationJob  2023-08-31 02:12:21 App\Jobs\SendEmailPermissionNotificationJob .... RUNNING
+ .... RUNNING
+  2023-08-31 02:12:24 App\Jobs\SendEmailPermissionNotificationJob  2,356.01ms DONE
+  2023-08-31 02:12:24 App\Jobs\SendEmailPermissionNotificationJob  2,558.89ms DONE
+  2023-08-31 09:59:58 App\Jobs\SendEmailPermissionNotificationJob  2023-08-31 09:59:58 App\Jobs\SendEmailPermissionNotificationJob .... RUNNING
+ .... RUNNING
+  2023-08-31 09:59:59 App\Jobs\SendEmailPermissionNotificationJob  1,677.88ms DONE
+  2023-08-31 09:59:59 App\Jobs\SendEmailPermissionNotificationJob  1,854.76ms DONE
+  2023-08-31 10:25:07 App\Jobs\SendEmailPermissionNotificationJob .... RUNNING
+  2023-08-31 10:25:07 App\Jobs\SendEmailPermissionNotificationJob .... RUNNING
+  2023-08-31 10:25:09 App\Jobs\SendEmailPermissionNotificationJob  1,884.05ms DONE
+  2023-08-31 10:25:09 App\Jobs\SendEmailPermissionNotificationJob  2,235.34ms DONE
+  2023-08-31 10:32:05 App\Jobs\SendEmailPermissionNotificationJob  2023-08-31 10:32:05 App\Jobs\SendEmailPermissionNotificationJob .... RUNNING
+ .... RUNNING
+  2023-08-31 10:32:07 App\Jobs\SendEmailPermissionNotificationJob  1,471.22ms DONE
+  2023-08-31 10:32:07 App\Jobs\SendEmailPermissionNotificationJob  1,610.10ms DONE
+  2023-08-31 10:41:46 App\Jobs\SendEmailPermissionNotificationJob .... RUNNING
+  2023-08-31 10:41:46 App\Jobs\SendEmailPermissionNotificationJob .... RUNNING
+  2023-08-31 10:41:47 App\Jobs\SendEmailPermissionNotificationJob  1,511.41ms DONE
+  2023-08-31 10:41:48 App\Jobs\SendEmailPermissionNotificationJob  1,786.38ms DONE
+  2023-09-06 07:32:20 App\Jobs\SendEmailPermissionNotificationJob .... RUNNING
+  2023-09-06 07:32:20 App\Jobs\SendEmailPermissionNotificationJob .... RUNNING
+  2023-09-06 07:32:22 App\Jobs\SendEmailPermissionNotificationJob  2,148.69ms DONE
+  2023-09-06 07:32:23 App\Jobs\SendEmailPermissionNotificationJob  2,531.64ms DONE
+  2023-09-06 07:36:20 App\Jobs\SendEmailPermissionNotificationJob .... RUNNING
+  2023-09-06 07:36:20 App\Jobs\SendEmailPermissionNotificationJob .... RUNNING
+  2023-09-06 07:36:21 App\Jobs\SendEmailPermissionNotificationJob  995.46ms DONE
+  2023-09-06 07:36:21 App\Jobs\SendEmailPermissionNotificationJob  1,354.32ms DONE
+  2023-09-06 07:37:14 App\Jobs\SendEmailPermissionNotificationJob .... RUNNING
+  2023-09-06 07:37:14 App\Jobs\SendEmailPermissionNotificationJob .... RUNNING
+  2023-09-06 07:37:16 App\Jobs\SendEmailPermissionNotificationJob  1,621.61ms DONE
+  2023-09-06 07:37:16 App\Jobs\SendEmailPermissionNotificationJob  1,928.08ms DONE
+  2023-09-06 08:52:05 App\Jobs\SendEmailPermissionNotificationJob  2023-09-06 08:52:05 App\Jobs\SendEmailPermissionNotificationJob .... .... RUNNING
+ RUNNING
+  2023-09-06 08:52:06 App\Jobs\SendEmailPermissionNotificationJob  1,696.92ms DONE
+  2023-09-06 08:52:06 App\Jobs\SendEmailPermissionNotificationJob  1,795.82ms DONE
+  2023-09-06 08:58:58 App\Jobs\SendEmailPermissionNotificationJob .... RUNNING
+  2023-09-06 08:58:59 App\Jobs\SendEmailPermissionNotificationJob  1,175.58ms DONE
+  2023-09-06 09:01:25 App\Jobs\SendEmailPermissionNotificationJob .... RUNNING
+  2023-09-06 09:01:26 App\Jobs\SendEmailPermissionNotificationJob  1,009.08ms DONE
+  2023-09-06 14:03:26 App\Jobs\SendEmailPermissionNotificationJob .... RUNNING
+  2023-09-06 14:03:26 App\Jobs\SendEmailPermissionNotificationJob .... RUNNING
+  2023-09-06 14:03:28 App\Jobs\SendEmailPermissionNotificationJob  2,631.07ms DONE
+  2023-09-06 14:03:29 App\Jobs\SendEmailPermissionNotificationJob  3,010.08ms DONE
+  2023-09-06 14:43:53 App\Jobs\SendEmailPermissionNotificationJob .... RUNNING
+  2023-09-06 14:43:56 App\Jobs\SendEmailPermissionNotificationJob  2,520.09ms DONE
+  2023-09-06 14:44:50 App\Jobs\SendEmailPermissionNotificationJob .... RUNNING
+  2023-09-06 14:44:51 App\Jobs\SendEmailPermissionNotificationJob  1,041.90ms DONE
+  2023-09-06 14:48:48 App\Jobs\SendEmailPermissionNotificationJob .... RUNNING
+  2023-09-06 14:48:49 App\Jobs\SendEmailPermissionNotificationJob  1,191.88ms DONE
+  2023-09-06 14:48:49 App\Jobs\SendEmailPermissionNotificationJob .... RUNNING
+  2023-09-06 14:48:50 App\Jobs\SendEmailPermissionNotificationJob  1,029.06ms DONE
+  2023-09-06 14:59:56 App\Jobs\SendEmailPermissionNotificationJob .... RUNNING
+  2023-09-06 14:59:58 App\Jobs\SendEmailPermissionNotificationJob  1,905.48ms DONE
+  2023-09-06 15:23:53 App\Jobs\SendEmailPermissionNotificationJob .... RUNNING
+  2023-09-06 15:23:54 App\Jobs\SendEmailPermissionNotificationJob .... RUNNING
+  2023-09-06 15:23:55 App\Jobs\SendEmailPermissionNotificationJob  1,980.14ms DONE
+  2023-09-06 15:23:56 App\Jobs\SendEmailPermissionNotificationJob  1,722.87ms DONE
+  2023-09-06 17:51:01 App\Jobs\SendEmailPermissionNotificationJob .... RUNNING
+  2023-09-06 17:51:03 App\Jobs\SendEmailPermissionNotificationJob  1,894.60ms DONE
+  2023-09-06 17:51:03 App\Jobs\SendEmailPermissionNotificationJob .... RUNNING
+  2023-09-06 17:51:04 App\Jobs\SendEmailPermissionNotificationJob  762.83ms DONE
+  2023-09-06 17:51:30 App\Jobs\SendEmailPermissionNotificationJob .... RUNNING
+  2023-09-06 17:51:30 App\Jobs\SendEmailPermissionNotificationJob .... RUNNING
+  2023-09-06 17:51:32 App\Jobs\SendEmailPermissionNotificationJob  1,583.17ms DONE
+  2023-09-06 17:51:32 App\Jobs\SendEmailPermissionNotificationJob  1,892.67ms DONE
+  2023-09-06 17:57:40 App\Jobs\SendEmailPermissionNotificationJob .... RUNNING
+  2023-09-06 17:57:40 App\Jobs\SendEmailPermissionNotificationJob .... RUNNING
+  2023-09-06 17:57:42 App\Jobs\SendEmailPermissionNotificationJob  1,724.79ms DONE
+  2023-09-06 17:57:42 App\Jobs\SendEmailPermissionNotificationJob  1,832.80ms DONE
+  2023-09-07 11:06:50 App\Jobs\SendEmailPermissionNotificationJob  2023-09-07 11:06:50 App\Jobs\SendEmailPermissionNotificationJob .... RUNNING
+ .... RUNNING
+  2023-09-07 11:06:51 App\Jobs\SendEmailPermissionNotificationJob  1,606.70ms DONE
+  2023-09-07 11:06:51 App\Jobs\SendEmailPermissionNotificationJob  1,844.46ms DONE
+  2023-09-11 08:48:14 App\Jobs\SendEmailPermissionNotificationJob  2023-09-11 08:48:14 App\Jobs\SendEmailPermissionNotificationJob .... RUNNING
+ .... RUNNING
+  2023-09-11 08:48:15 App\Jobs\SendEmailPermissionNotificationJob  1,315.87ms DONE
+  2023-09-11 08:48:16 App\Jobs\SendEmailPermissionNotificationJob  1,456.44ms DONE
+  2023-09-18 15:43:15 App\Jobs\SendEmailPermissionNotificationJob .... RUNNING
+  2023-09-18 15:43:17 App\Jobs\SendEmailPermissionNotificationJob  1,524.12ms DONE
+  2023-09-18 15:52:22 App\Jobs\SendEmailPermissionNotificationJob .... RUNNING
+  2023-09-18 15:52:23 App\Jobs\SendEmailPermissionNotificationJob  1,416.82ms DONE
+  2023-10-16 11:12:41 App\Notifications\SimpleNotificationMessage .... RUNNING
+  2023-10-16 11:12:41 App\Notifications\SimpleNotificationMessage .... RUNNING
+  2023-10-16 11:12:43 App\Notifications\SimpleNotificationMessage  1,644.52ms DONE
+  2023-10-16 11:12:43 App\Notifications\SimpleNotificationMessage  1,642.93ms DONE
