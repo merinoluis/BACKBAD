@@ -100,6 +100,6 @@ class RouteServiceProvider extends ServiceProvider
 
     protected function mapCustomWebRoutes()
     {
-        Route::middleware('web')->namespace($this->namespace)->prefix('administracion')->group(base_path('routes/web/administracion.php'));
+        // Route::middleware('web')->namespace($this->namespace)->prefix('administracion')->group(base_path('routes/web/administracion.php'));
     }
 }
